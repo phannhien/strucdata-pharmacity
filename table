@@ -1,0 +1,7512 @@
+<table>
+<tbody>
+<tr>
+<td>STOREID</td>
+<td>STORE NAME</td>
+<td>PROVINCE</td>
+<td>DISTRICT</td>
+<td>Status</td>
+<td> Thời gian khác (từ mấy giờ đến mấy giờ)</td>
+<td>Ngày áp dụng thời gian khác (từ ngày đến ngày)</td>
+</tr>
+<tr>
+<td>DNPMC298</td>
+<td>01 Lê Lợi, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Hải Châu</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC297</td>
+<td>189 Nguyễn Văn Thoại, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Sơn Trà</td>
+<td>Open full during TET</td>
+<td>Theo quy định của công ty</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>DNPMC303</td>
+<td>78 Hồ Xuân Hương, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Ngũ Hành Sơn</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC325</td>
+<td>108 Ông Ích Đường, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Cẩm Lệ</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC321</td>
+<td>39 Nguyễn Phan Vinh, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Sơn Trà</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC343</td>
+<td>202 Núi Thành, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Hải Châu</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC431</td>
+<td>122 Nguyễn Phước Lan, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Cẩm Lệ</td>
+<td>Open full during TET</td>
+<td>Theo quy định của công ty</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>DNPMC461</td>
+<td>124 Phạm Cự Lượng, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Sơn Trà</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC491</td>
+<td>41 Mai Hắc Đế, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Sơn Trà</td>
+<td>Open full during TET</td>
+<td>Theo quy định của công ty</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>DNPMC644</td>
+<td>118 Quang Trung, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Hải Châu</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC736</td>
+<td>242 Trần Hưng Đạo, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Sơn Trà</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC708</td>
+<td>109 Hải Phòng, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Hải Châu</td>
+<td>Open full during TET</td>
+<td>Theo quy định của công ty</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>DNPMC758</td>
+<td>241 Võ An Ninh, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Cẩm Lệ</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC886</td>
+<td>159 Châu Thị Vĩnh Tế, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Ngũ Hành Sơn</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC709</td>
+<td>89 Nguyễn Thị Định, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Sơn Trà</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC1027</td>
+<td>77 Đô Đốc Lộc, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Cẩm Lệ</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC1039</td>
+<td>181 Nguyễn Công Trứ, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Sơn Trà</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC815</td>
+<td>119 Mai Am, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Hải Châu</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC1028</td>
+<td>Lô 20D5 Vân Đồn, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Sơn Trà</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC1053</td>
+<td>83-85 Lê Văn Hiến, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Ngũ Hành Sơn</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC278</td>
+<td>249 Trần Cao Vân, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Thanh Khê</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC291</td>
+<td>293 Nguyễn Văn Linh, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Thanh Khê</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC296</td>
+<td>131A Lý Thái Tổ, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Thanh Khê</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC299</td>
+<td>162 Phan Đăng Lưu, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Hải Châu</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC304</td>
+<td>428-430 Hùng Vương, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Thanh Khê</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC326</td>
+<td>117 Tiểu La, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Hải Châu</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC311</td>
+<td>107 Tôn Đức Thắng, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Cẩm Lệ</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC368</td>
+<td>85 Hàm Nghi, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Thanh Khê</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC410</td>
+<td>442 Điện Biên Phủ, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Thanh Khê</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC396</td>
+<td>19 Hoàng Diệu, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Hải Châu</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC400</td>
+<td>205 - 207 Ông Ích Khiêm, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Hải Châu</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC515</td>
+<td>429 - 431 Hoàng Diệu, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Hải Châu</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC504</td>
+<td>362 - 364 Ông Ích Khiêm, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Thanh Khê</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC611</td>
+<td>36 Cao Thắng, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Hải Châu</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC647</td>
+<td>65 Lý Thái Tông, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Thanh Khê</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC679</td>
+<td>63 Lê Nổ, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Hải Châu</td>
+<td>Open full during TET</td>
+<td>Theo quy định của công ty</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>DNPMC901</td>
+<td>06 Huỳnh Ngọc Huệ, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Thanh Khê</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC893</td>
+<td>850 Trần Cao Vân, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Thanh Khê</td>
+<td>Open full during TET</td>
+<td>Theo quy định của công ty</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>DNPMC747</td>
+<td>37 Thái Phiên, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Hải Châu</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC950</td>
+<td>66 Võ Văn Tần, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Thanh Khê</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC1074</td>
+<td>153 Nguyễn Hoàng, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Hải Châu</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC1069</td>
+<td>425-427 Hà Huy Tập, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Thanh Khê</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC970</td>
+<td>563 Núi Thành, Đà Nẵng</td>
+<td>Thành phố Đà Nẵng</td>
+<td>Quận Hải Châu</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC279</td>
+<td>Linh Đàm, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hoàng Mai</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC284</td>
+<td>194 Định Công Thượng, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hoàng Mai</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC315</td>
+<td>53 Nguyễn An Ninh, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hoàng Mai</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC369</td>
+<td>New Horizon City, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hoàng Mai</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC421</td>
+<td>Đền Lừ 2, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hoàng Mai</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC341</td>
+<td>Park Hill, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hoàng Mai</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC422</td>
+<td>702 Trương Định, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hoàng Mai</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC496</td>
+<td>58 Nguyễn Đức Cảnh, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hoàng Mai</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC757</td>
+<td>173 Vĩnh Hưng, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hoàng Mai</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC704</td>
+<td>Tòa nhà CT1, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hoàng Mai</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC811</td>
+<td>BT2 Bắc Linh Đàm, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hoàng Mai</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC782</td>
+<td>3 Bắc Linh Đàm, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hoàng Mai</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC880</td>
+<td>Số 227 Hà Huy Tập, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Huyện Gia Lâm</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC866</td>
+<td>281 Tam Trinh, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hoàng Mai</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC775</td>
+<td>01S11 Vinhomes Ocean Park, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Huyện Gia Lâm</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC932</td>
+<td>34 Trần Điền, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hoàng Mai</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC681</td>
+<td>Times City Park Hill, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hoàng Mai</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC831</td>
+<td>01S09 Vinhomes Ocean Park, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Huyện Gia Lâm</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC774</td>
+<td>27 Gamuda Gardens, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hoàng Mai</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC830</td>
+<td>01S05 Vinhomes Ocean Park, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Huyện Gia Lâm</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC233</td>
+<td>233 - 233A phố Đặng Tiến Đông, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Đống Đa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC356</td>
+<td>Imperia Sky Garden, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hai Bà Trưng</td>
+<td>Open full during TET</td>
+<td>Theo quy định của công ty</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>HNPMC399</td>
+<td>288 Ngõ Quỳnh, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hai Bà Trưng</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC439</td>
+<td>49 Hồng Mai, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hai Bà Trưng</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC475</td>
+<td>15 Ngõ 30 Mai Anh Tuấn, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Đống Đa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC485</td>
+<td>176D + E Trương Định, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hai Bà Trưng</td>
+<td>Open full during TET</td>
+<td>Theo quy định của công ty</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>HNPMC514</td>
+<td>134 Dương Văn Bé, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hai Bà Trưng</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC568</td>
+<td>284 Lạc Trung, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hai Bà Trưng</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC564</td>
+<td>139 Khương Thượng, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Đống Đa</td>
+<td>Open full during TET</td>
+<td>Theo quy định của công ty</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>HNPMC629</td>
+<td>261 - 263 Trần Đại Nghĩa, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hai Bà Trưng</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC654</td>
+<td>HH2 Lê Trọng Tấn, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Huyện Hoài Đức</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC942</td>
+<td>92 Phố Lò Đúc, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hai Bà Trưng</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC777</td>
+<td>117 Lê Thanh Nghị, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hai Bà Trưng</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC752</td>
+<td>T07 Vinhomes Times City, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hai Bà Trưng</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC329</td>
+<td>27 Xuân Diệu, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Tây Hồ</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC346</td>
+<td>431 Thụy Khê, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Tây Hồ</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC391</td>
+<td>10 Hàng Da, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hoàn Kiếm</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC417</td>
+<td>6 - 8 Tô Ngọc Vân, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Tây Hồ</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC454</td>
+<td>35 phố Hàng Giầy, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hoàn Kiếm</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC520</td>
+<td>70E Phố Thụy Khuê, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Tây Hồ</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC511</td>
+<td>41A Lý Quốc Sư, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hoàn Kiếm</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC566</td>
+<td>72 + 74 Hàng Bông, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hoàn Kiếm</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC519</td>
+<td>21 Lãn Ông, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hoàn Kiếm</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC609</td>
+<td>202 - 204 Hoàng Hoa Thám, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Tây Hồ</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC615</td>
+<td>61 Nguyễn Sơn, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Long Biên</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC651</td>
+<td>Nhà số 02 phố Đức Giang, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Long Biên</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC685</td>
+<td>48 Nguyễn Hoàng Tôn, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Tây Hồ</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC742</td>
+<td>94A Hoàng Như Tiếp,  Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Long Biên</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC729</td>
+<td>57A-57B Sài Đồng, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Long Biên</td>
+<td>Open full during TET</td>
+<td>Theo quy định của công ty</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>HNPMC610</td>
+<td>11 Xuân La, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Tây Hồ</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC773</td>
+<td>21 Phố Trạm, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Long Biên</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC825</td>
+<td>85 Thạch Bàn, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Long Biên</td>
+<td>Open full during TET</td>
+<td>Theo quy định của công ty</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>HNPMC237</td>
+<td>83A Nguyễn Công Hoan, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Ba Đình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC286</td>
+<td>298- 300 Đội Cấn, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Ba Đình</td>
+<td>Open full during TET</td>
+<td>Theo quy định của công ty</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>HNPMC382</td>
+<td>Ngôi sao An Bình, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Bắc Từ Liêm</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC428</td>
+<td>CT2B - Cổ Nhuế, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Bắc Từ Liêm</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC477</td>
+<td>931 Đê La Thành, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Ba Đình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC522</td>
+<td>218 Đội Cấn, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Ba Đình</td>
+<td>Open full during TET</td>
+<td>Theo quy định của công ty</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>HNPMC652</td>
+<td>5A Phố Láng Hạ, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Ba Đình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC638</td>
+<td>215 Cổ Nhuế, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Bắc Từ Liêm</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC655</td>
+<td>225 – 227 Trần Cung, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Bắc Từ Liêm</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC682</td>
+<td>70 Phố Ngọc Khánh, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Ba Đình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC764</td>
+<td>288 Hoàng Công Chất, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Bắc Từ Liêm</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC783</td>
+<td>77 Đốc Ngữ, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Ba Đình</td>
+<td>Open full during TET</td>
+<td>Theo quy định của công ty</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>HNPMC840</td>
+<td>120 Phú Diễn, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Bắc Từ Liêm</td>
+<td>Open full during TET</td>
+<td>Theo quy định của công ty</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>HNPMC841</td>
+<td>Số 52 Cổ Nhuế, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Bắc Từ Liêm</td>
+<td>Open full during TET</td>
+<td>Theo quy định của công ty</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>HNPMC849</td>
+<td>51 Phố Cửa Bắc, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Ba Đình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC236</td>
+<td>96 - 98 Khâm Thiên, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Đống Đa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC249</td>
+<td>Văn Khê, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hà Đông</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC282</td>
+<td>191 Phùng Hưng, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hà Đông</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC412</td>
+<td>Hi Brand, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hà Đông</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC539</td>
+<td>Xuân mai Complex, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hà Đông</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC570</td>
+<td>Học viện Quân Y, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Huyện Thanh Trì</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC571</td>
+<td>104 Khâm Thiên, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Đống Đa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC627</td>
+<td>59 Dương Lâm, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hà Đông</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC653</td>
+<td>35 phố Vũ Thạnh, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Đống Đa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC686</td>
+<td>NO02 Hà Trì, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hà Đông</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC684</td>
+<td>63 Nguyên Hồng, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Đống Đa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC650</td>
+<td>135 đường 19/05, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hà Đông</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC628</td>
+<td>V3 The Vesta, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hà Đông</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC728</td>
+<td>Khu đô thị Đại Thanh, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Huyện Thanh Trì</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC737</td>
+<td>Khu đô thị Văn Phú, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hà Đông</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC790</td>
+<td>107 Chiến Thắng, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Hà Đông</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC814</td>
+<td>16 Trần Quý Cáp, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Đống Đa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC255</td>
+<td>94 Tô Vĩnh Diện, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Thanh Xuân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC257</td>
+<td>396 Mỹ Đình, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Nam Từ Liêm</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC266</td>
+<td>52 Lê Trọng Tấn, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Thanh Xuân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC292</td>
+<td>136A Quan Nhân, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Thanh Xuân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC293</td>
+<td>52 Mỹ Đình, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Nam Từ Liêm</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC393</td>
+<td>Pandora, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Thanh Xuân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC415</td>
+<td>29 Nguyễn Quý Đức, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Thanh Xuân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC480</td>
+<td>55 Phố Hoàng Văn Thái, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Thanh Xuân</td>
+<td>Open full during TET</td>
+<td>Theo quy định của công ty</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>HNPMC557</td>
+<td>76 Vương Thừa Vũ, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Thanh Xuân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC565</td>
+<td>Thanh Xuân Complex, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Thanh Xuân</td>
+<td>No open</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC538</td>
+<td>Vinhomes Green Bay, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Nam Từ Liêm</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC608</td>
+<td>Dự án Khu nhà ở Trung Văn, , Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Nam Từ Liêm</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC670</td>
+<td>TT4 Đỗ Đình Thiện, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Nam Từ Liêm</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC636</td>
+<td>7 Hữu Hưng, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Nam Từ Liêm</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC743</td>
+<td>148 Phố Vọng, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Thanh Xuân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC881</td>
+<td>198 Nguyễn Huy Tưởng, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Thanh Xuân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC842</td>
+<td>78 Khương Trung, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Thanh Xuân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC857</td>
+<td>47 Nguyễn Ngọc Nại, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Thanh Xuân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC823</td>
+<td>TDP số 4 Mễ Trì Thượng, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Nam Từ Liêm</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC373</td>
+<td>49 Xuân Đỉnh, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Bắc Từ Liêm</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC394</td>
+<td>2 Trần Quý Kiên, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Cầu Giấy</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC432</td>
+<td>KĐT Trung Yên, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Cầu Giấy</td>
+<td>Open full during TET</td>
+<td>Theo quy định của công ty</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>HNPMC468</td>
+<td>267 Lạc Long Quân, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Cầu Giấy</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC464</td>
+<td>193 Nguyễn Ngọc Vũ, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Cầu Giấy</td>
+<td>Open full during TET</td>
+<td>Theo quy định của công ty</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>HNPMC510</td>
+<td>28 Phố Trần Quốc Vượng, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Cầu Giấy</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC569</td>
+<td>Horizon Tower, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Bắc Từ Liêm</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC567</td>
+<td>Chung cư  Xuân Đỉnh, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Bắc Từ Liêm</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC614</td>
+<td>333 Xuân Đỉnh, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Bắc Từ Liêm</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC813</td>
+<td>53 Trần Quốc Hoàn, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Cầu Giấy</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC832</td>
+<td>65 Phố Trần Cung, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Cầu Giấy</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC824</td>
+<td>107 Doãn Kế Thiện, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Cầu Giấy</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC882</td>
+<td>Số 20 Hoàng Quốc Việt, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Cầu Giấy</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC941</td>
+<td>56 Dương Khuê, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Cầu Giấy</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC1012</td>
+<td>Nhà 01 Phạm Tuấn Tài, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Cầu Giấy</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC875</td>
+<td>35 Tân Xuân, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Bắc Từ Liêm</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC812</td>
+<td>222 Trần Duy Hưng, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Cầu Giấy</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC1012</td>
+<td>Nhà 01 Phạm Tuấn Tài, Hà Nội</td>
+<td>Thành phố Hà Nội</td>
+<td>Quận Cầu Giấy</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC673</td>
+<td>166A Chùa Hàng, Hải Phòng</td>
+<td>Thành phố Hải Phòng</td>
+<td>Quận Lê Chân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC703</td>
+<td>Vinhomes Imperia, Hải Phòng</td>
+<td>Thành phố Hải Phòng</td>
+<td>Quận Hồng Bàng</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC672</td>
+<td>70 Văn Cao, Hải Phòng</td>
+<td>Thành phố Hải Phòng</td>
+<td>Quận Ngô Quyền</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC702</td>
+<td>1 Thiên Lôi, Hải Phòng</td>
+<td>Thành phố Hải Phòng</td>
+<td>Quận Lê Chân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC701</td>
+<td>81 Hai Bà Trưng, Hải Phòng</td>
+<td>Thành phố Hải Phòng</td>
+<td>Quận Lê Chân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC753</td>
+<td>61 - 63 Dư Hàng, Hải Phòng</td>
+<td>Thành phố Hải Phòng</td>
+<td>Quận Lê Chân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC755</td>
+<td>161 - 163 Đình Đông, Hải Phòng</td>
+<td>Thành phố Hải Phòng</td>
+<td>Quận Lê Chân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC833</td>
+<td>60M Phan Bội Châu, Hải Phòng</td>
+<td>Thành phố Hải Phòng</td>
+<td>Quận Hồng Bàng</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC756</td>
+<td>24C An Đà, Hải Phòng</td>
+<td>Thành phố Hải Phòng</td>
+<td>Quận Ngô Quyền</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC834</td>
+<td>159 Phố Mới, Hải Phòng</td>
+<td>Thành phố Hải Phòng</td>
+<td>Huyện Thuỷ Nguyên</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC810</td>
+<td>Số 134 Tô Hiệu, Hải Phòng</td>
+<td>Thành phố Hải Phòng</td>
+<td>Quận Lê Chân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC876</td>
+<td>22 đường Trần Quang Khải, Hải Phòng</td>
+<td>Thành phố Hải Phòng</td>
+<td>Quận Hồng Bàng</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC854</td>
+<td>34 Trần Thành Ngọ, Hải Phòng</td>
+<td>Thành phố Hải Phòng</td>
+<td>Quận Kiến An</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC896</td>
+<td>Số 278 Đằng Hải, Hải Phòng</td>
+<td>Thành phố Hải Phòng</td>
+<td>Quận Hải An</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC895</td>
+<td>Số 109 Cát Bi, Hải Phòng</td>
+<td>Thành phố Hải Phòng</td>
+<td>Quận Hải An</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC894</td>
+<td>Số 87 Lê Quốc Uy, Hải Phòng</td>
+<td>Thành phố Hải Phòng</td>
+<td>Quận Kiến An</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC898</td>
+<td>64 Bạch Đằng, Hải Phòng</td>
+<td>Thành phố Hải Phòng</td>
+<td>Huyện Thuỷ Nguyên</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC908</td>
+<td>Số 271 khu phố Trần Phú, Bắc Ninh</td>
+<td>Tỉnh Bắc Ninh</td>
+<td>Thị xã Từ Sơn</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC920</td>
+<td>11 Đường Đấu Mã, Bắc Ninh</td>
+<td>Tỉnh Bắc Ninh</td>
+<td>Thành phố Bắc Ninh</td>
+<td>Open full during TET</td>
+<td>Theo quy định của công ty</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>HNPMC910</td>
+<td>Số 243 Minh Khai, Bắc Ninh</td>
+<td>Tỉnh Bắc Ninh</td>
+<td>Thị xã Từ Sơn</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC911</td>
+<td>377 Khu Hòa Bình, Bắc Ninh</td>
+<td>Tỉnh Bắc Ninh</td>
+<td>Thành phố Bắc Ninh</td>
+<td>Open full during TET</td>
+<td>Theo quy định của công ty</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>HNPMC949</td>
+<td>509 Ngô Gia Tự, Bắc Ninh</td>
+<td>Tỉnh Bắc Ninh</td>
+<td>Thành phố Bắc Ninh</td>
+<td>Open full during TET</td>
+<td>Theo quy định của công ty</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>HNPMC953</td>
+<td>155 Ngô Quyền, Hải Dương</td>
+<td>Tỉnh Hải Dương</td>
+<td>Thành phố Hải Dương</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC982</td>
+<td>Số 118 Chi Lăng, Hải Dương</td>
+<td>Tỉnh Hải Dương</td>
+<td>Thành phố Hải Dương</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC606</td>
+<td>Khu biệt thự Thủy Nguyên, Hưng Yên</td>
+<td>Tỉnh Hưng Yên</td>
+<td>Huyện Văn Giang</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC637</td>
+<td>182 Văn Giang, Hưng Yên</td>
+<td>Tỉnh Hưng Yên</td>
+<td>Huyện Văn Giang</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC616</td>
+<td>Khu đô thị Văn Giang, Hưng Yên</td>
+<td>Tỉnh Hưng Yên</td>
+<td>Huyện Văn Giang</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC467</td>
+<td>30 Thống Nhất, Nha Trang</td>
+<td>Tỉnh Khánh Hòa</td>
+<td>Thành phố Nha Trang</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC488</td>
+<td>16 Hàn Thuyên, Nha Trang</td>
+<td>Tỉnh Khánh Hòa</td>
+<td>Thành phố Nha Trang</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC489</td>
+<td>17 Tháp Bà, Nha Trang</td>
+<td>Tỉnh Khánh Hòa</td>
+<td>Thành phố Nha Trang</td>
+<td>Open full during TET</td>
+<td>Theo quy định của công ty</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>DNPMC492</td>
+<td>72 Nguyễn Thị Minh Khai, Phường Tân Lập, Nha Trang</td>
+<td>Tỉnh Khánh Hòa</td>
+<td>Thành phố Nha Trang</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC466</td>
+<td>71 Ngô Gia Tự, Nha Trang</td>
+<td>Tỉnh Khánh Hòa</td>
+<td>Thành phố Nha Trang</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC478</td>
+<td>Mường Thanh Viễn Triều, Nha Trang</td>
+<td>Tỉnh Khánh Hòa</td>
+<td>Thành phố Nha Trang</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC493</td>
+<td>78 Võ Thị Sáu, Nha Trang</td>
+<td>Tỉnh Khánh Hòa</td>
+<td>Thành phố Nha Trang</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC513</td>
+<td>2A Đinh Tiên Hoàng, Nha Trang</td>
+<td>Tỉnh Khánh Hòa</td>
+<td>Thành phố Nha Trang</td>
+<td>Open full during TET</td>
+<td>Theo quy định của công ty</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>DNPMC527</td>
+<td>19A Hai Bà Trưng, Nha Trang</td>
+<td>Tỉnh Khánh Hòa</td>
+<td>Thành phố Nha Trang</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC554</td>
+<td>84 Trần Phú, Nha Trang</td>
+<td>Tỉnh Khánh Hòa</td>
+<td>Thành phố Nha Trang</td>
+<td>Open full during TET</td>
+<td>Theo quy định của công ty</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>DNPMC544</td>
+<td>269 Thống Nhất, Nha Trang</td>
+<td>Tỉnh Khánh Hòa</td>
+<td>Thành phố Nha Trang</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC801</td>
+<td>68B Đồng Nai, Nha Trang</td>
+<td>Tỉnh Khánh Hòa</td>
+<td>Thành phố Nha Trang</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC1107</td>
+<td>294 Trần Huy Liệu, Nam Định</td>
+<td>Tỉnh Nam Định</td>
+<td>Thành phố Nam Định</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC1026</td>
+<td>34 Bến Ngự, Nam Định</td>
+<td>Tỉnh Nam Định</td>
+<td>Thành phố Nam Định</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC1113</td>
+<td>109 Lê Hồng Phong, Vinh</td>
+<td>Tỉnh Nghệ An</td>
+<td>Thành phố Vinh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC1132</td>
+<td>290 Nguyễn Văn Cừ, Vinh</td>
+<td>Tỉnh Nghệ An</td>
+<td>Thành phố Vinh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC1059</td>
+<td>360 Trần Cao Vân, Quảng Nam</td>
+<td>Tỉnh Quảng Nam</td>
+<td>Thành phố Tam Kỳ</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC873</td>
+<td>356 Phan Châu Trinh, Quảng Nam</td>
+<td>Tỉnh Quảng Nam</td>
+<td>Thành phố Tam Kỳ</td>
+<td>Open full during TET</td>
+<td>Theo quy định của công ty</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>DNPMC1073</td>
+<td>78 Trần Cao Vân, Quảng Nam</td>
+<td>Tỉnh Quảng Nam</td>
+<td>Thành phố Tam Kỳ</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC1065</td>
+<td>315 Lê Quý Đôn, Thái Bình</td>
+<td>Tỉnh Thái Bình</td>
+<td>Thành phố Thái Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC1066</td>
+<td>459 Trần Hưng Đạo, Thái Bình</td>
+<td>Tỉnh Thái Bình</td>
+<td>Thành phố Thái Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC962</td>
+<td>248-250 Lê Lai, Thanh Hóa</td>
+<td>Tỉnh Thanh Hóa</td>
+<td>Thành phố Thanh Hóa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC851</td>
+<td>420 Bà Triệu, Thanh Hóa</td>
+<td>Tỉnh Thanh Hóa</td>
+<td>Thành phố Thanh Hóa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC877</td>
+<td>71A-71B Phố Đào Duy Từ, Thanh Hóa</td>
+<td>Tỉnh Thanh Hóa</td>
+<td>Thành phố Thanh Hóa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC852</td>
+<td>56 Tống Duy Tân, Thanh Hóa</td>
+<td>Tỉnh Thanh Hóa</td>
+<td>Thành phố Thanh Hóa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC874</td>
+<td>Số 233 Lê Hoàn, Thanh Hóa</td>
+<td>Tỉnh Thanh Hóa</td>
+<td>Thành phố Thanh Hóa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC883</td>
+<td>189 Nguyễn Trãi, Thanh Hóa</td>
+<td>Tỉnh Thanh Hóa</td>
+<td>Thành phố Thanh Hóa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC878</td>
+<td>chợ Trường Thi, Thanh Hóa</td>
+<td>Tỉnh Thanh Hóa</td>
+<td>Thành phố Thanh Hóa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC850</td>
+<td>112 Đinh Công Tráng, Thanh Hóa</td>
+<td>Tỉnh Thanh Hóa</td>
+<td>Thành phố Thanh Hóa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC892</td>
+<td>44 Bến Ngự, Thanh Hóa</td>
+<td>Tỉnh Thanh Hóa</td>
+<td>Thành phố Thanh Hóa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC912</td>
+<td>98 Tô Vĩnh Diện, Thanh Hóa</td>
+<td>Tỉnh Thanh Hóa</td>
+<td>Thành phố Thanh Hóa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC913</td>
+<td>101 Tecco Towers, Thanh Hóa</td>
+<td>Tỉnh Thanh Hóa</td>
+<td>Thành phố Thanh Hóa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HNPMC922</td>
+<td>32 Bà Triệu, Thanh Hóa</td>
+<td>Tỉnh Thanh Hóa</td>
+<td>Thành phố Sầm Sơn</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC377</td>
+<td>41 Chu Văn An, Huế</td>
+<td>Tỉnh Thừa Thiên Huế</td>
+<td>Thành phố Huế</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC398</td>
+<td>176 Hùng Vương, Huế</td>
+<td>Tỉnh Thừa Thiên Huế</td>
+<td>Thành phố Huế</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC388</td>
+<td>15A Hai Bà Trưng, Huế.</td>
+<td>Tỉnh Thừa Thiên Huế</td>
+<td>Thành phố Huế</td>
+<td>Open full during TET</td>
+<td>Theo quy định của công ty</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>DNPMC448</td>
+<td>6 Nguyễn Thái Học, Huế</td>
+<td>Tỉnh Thừa Thiên Huế</td>
+<td>Thành phố Huế</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DNPMC463</td>
+<td>42 Nguyễn Tri Phương, Huế</td>
+<td>Tỉnh Thừa Thiên Huế</td>
+<td>Thành phố Huế</td>
+<td>Open full during TET</td>
+<td>Theo quy định của công ty</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>DNPMC543</td>
+<td>KQH 4-6 Ngô Quyền, Huế</td>
+<td>Tỉnh Thừa Thiên Huế</td>
+<td>Thành phố Huế</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC194</td>
+<td>5/1 Bùi Chu</td>
+<td>HCM</td>
+<td>Huyện Hóc Môn</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC245</td>
+<td>43 đường Tỉnh lộ 8, Củ Chi</td>
+<td>HCM</td>
+<td>Huyện Củ Chi</td>
+<td>Open full during TET</td>
+<td>6h00-22h00</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC308</td>
+<td>PMC - 1/33 Quang Trung</td>
+<td>HCM</td>
+<td>Huyện Hóc Môn</td>
+<td>Open full during TET</td>
+<td>6h00-21h00 ngày 29 AL và 7h00-23h00 mùng 1 Tết</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC441</td>
+<td>167 Tô Ký</td>
+<td>HCM</td>
+<td>Huyện Hóc Môn</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC472</td>
+<td>11/2 Nguyễn Ảnh Thủ</td>
+<td>HCM</td>
+<td>Huyện Hóc Môn</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC550</td>
+<td>148 Đường Tỉnh lộ 8</td>
+<td>HCM</td>
+<td>Huyện Củ Chi</td>
+<td>Open full during TET</td>
+<td>6h00-21h00 ngày 29 AL và 7h00-23h00 mùng 1 Tết</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC663</td>
+<td>25A Trần Tử Bình, Củ Chi</td>
+<td>HCM</td>
+<td>Huyện Củ Chi</td>
+<td>Open full during TET</td>
+<td>6h00-21h00 ngày 29 AL và 7h00-23h00 mùng 1 Tết</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC740</td>
+<td>119/5A Xuân Thới Thượng, Hóc Môn</td>
+<td>HCM</td>
+<td>Huyện Hóc Môn</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC781</td>
+<td>46/2 Lý Thường Kiệt,  Hóc Môn</td>
+<td>HCM</td>
+<td>Huyện Hóc Môn</td>
+<td>Open full during TET</td>
+<td>6h00-21h00 ngày 29 AL và 7h00-23h00 mùng 1 Tết</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC1013</td>
+<td>71C CMT8 8, Cần Thơ</td>
+<td>Can Tho</td>
+<td>Quận Bình Thuỷ</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC201</td>
+<td>382 Đường 30 tháng 4,Cần Thơ</td>
+<td>Can Tho</td>
+<td>Quận Ninh Kiều</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC217</td>
+<td>147 Trần Hưng Đạo, Cần Thơ</td>
+<td>Can Tho</td>
+<td>Quận Ninh Kiều</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC218</td>
+<td>84 Bis Mậu Thân, Cần Thơ</td>
+<td>Can Tho</td>
+<td>Quận Ninh Kiều</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC268</td>
+<td>65B CMT8, Cần Thơ</td>
+<td>Can Tho</td>
+<td>Quận Ninh Kiều</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC269</td>
+<td>8A CMT8, Cần Thơ</td>
+<td>Can Tho</td>
+<td>Quận Bình Thuỷ</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC307</td>
+<td>81 đường 30/4, Cần Thơ</td>
+<td>Can Tho</td>
+<td>Quận Ninh Kiều</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC334</td>
+<td>610 Đường 30/4, Cần Thơ</td>
+<td>Can Tho</td>
+<td>Quận Ninh Kiều</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC353</td>
+<td>138 Hai Bà Trưng, Cần Thơ</td>
+<td>Can Tho</td>
+<td>Quận Ninh Kiều</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC481</td>
+<td>167I Nguyễn Văn Cừ, Cần Thơ</td>
+<td>Can Tho</td>
+<td>Quận Ninh Kiều</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC483</td>
+<td>401 Nguyễn Văn Cừ, Cần Thơ</td>
+<td>Can Tho</td>
+<td>Quận Ninh Kiều</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC512</td>
+<td>34 Hai Bà Trưng, Cần Thơ</td>
+<td>Can Tho</td>
+<td>Quận Ninh Kiều</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC548</td>
+<td>54A Hùng Vương, Cần Thơ</td>
+<td>Can Tho</td>
+<td>Quận Ninh Kiều</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC943</td>
+<td>1261 Tôn Đức Thắng, Cần Thơ</td>
+<td>Can Tho</td>
+<td>Quận Ô Môn</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC523</td>
+<td>A30 Điện Biên Phủ, Kiên Giang</td>
+<td>Kien Giang</td>
+<td>Thành phố Rạch Giá</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết : 6h - 12h30
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC524</td>
+<td>24 Phạm Hồng Thái, Kiên Giang</td>
+<td>Kien Giang</td>
+<td>Thành phố Rạch Giá</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC529</td>
+<td>712 Nguyễn Trung Trực, Kiên giang</td>
+<td>Kien Giang</td>
+<td>Thành phố Rạch Giá</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC595</td>
+<td>3K Trần Quang Khải, Kiên Giang</td>
+<td>Kien Giang</td>
+<td>Thành phố Rạch Giá</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết : 6h - 12h30
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC601</td>
+<td>110 Lý Thường Kiệt, Kiên Giang</td>
+<td>Kien Giang</td>
+<td>Thành phố Rạch Giá</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>NHC</td>
+<td>Nguyễn Hữu Cầu</td>
+<td>HCM</td>
+<td>Quận 1</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 21h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>PHT</td>
+<td>Phạm Hồng Thái</td>
+<td>HCM</td>
+<td>Quận 1</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 21h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC035</td>
+<td>Phạm Ngũ Lão</td>
+<td>HCM</td>
+<td>Quận 1</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC046</td>
+<td>Hải Triều</td>
+<td>HCM</td>
+<td>Quận 1</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 21h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC129</td>
+<td>Cô Giang</td>
+<td>HCM</td>
+<td>Quận 1</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC191</td>
+<td>325-327 Phạm Ngũ Lão</td>
+<td>HCM</td>
+<td>Quận 1</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 21h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC238</td>
+<td>97 Hai Bà Trưng</td>
+<td>HCM</td>
+<td>Quận 1</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 21h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC263</td>
+<td>13A Lê Thánh Tôn</td>
+<td>HCM</td>
+<td>Quận 1</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 21h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC386</td>
+<td>Vinhomes Golden River</td>
+<td>HCM</td>
+<td>Quận 1</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 21h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC446</td>
+<td>15D Nguyễn Thị Minh Khai</td>
+<td>HCM</td>
+<td>Quận 1</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 21h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC453</td>
+<td>124 Cống Quỳnh</td>
+<td>HCM</td>
+<td>Quận 1</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC563</td>
+<td>80 Tôn Thất Tùng</td>
+<td>HCM</td>
+<td>Quận 1</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC724</td>
+<td>258 Nguyễn Công Trứ, Q1</td>
+<td>HCM</td>
+<td>Quận 1</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>TCV</td>
+<td>Trần Cao Vân</td>
+<td>HCM</td>
+<td>Quận 1</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 21h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC1094</td>
+<td>37 Lê Hồng Phong, Hậu Giang</td>
+<td>Hau Giang</td>
+<td>Thành phố Vị Thanh</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC1095</td>
+<td>1081-1083 Trần Hưng Đạo</td>
+<td>Hau Giang</td>
+<td>Thành phố Vị Thanh</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC083</td>
+<td>121 Liên Khu 4-5</td>
+<td>HCM</td>
+<td>Quận Bình Tân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC093</td>
+<td>73 Nguyễn Thị Tú</td>
+<td>HCM</td>
+<td>Quận Bình Tân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC120</td>
+<td>Đường Số 10</td>
+<td>HCM</td>
+<td>Huyện Bình Chánh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC215</td>
+<td>361 Nguyễn Thị Tú</td>
+<td>HCM</td>
+<td>Quận Bình Tân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC289</td>
+<td>Green Town</td>
+<td>HCM</td>
+<td>Quận Bình Tân</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 20h
+Mùng 1: 7h - 23h</td>
+<td>31/01/2022 - 01/02/2022</td>
+</tr>
+<tr>
+<td>SGPMC451</td>
+<td>Mizuki Park</td>
+<td>HCM</td>
+<td>Huyện Bình Chánh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC645</td>
+<td>353 Phạm Hùng, Bình Chánh</td>
+<td>HCM</td>
+<td>Huyện Bình Chánh</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 20h
+Mùng 1: 7h - 23h</td>
+<td>31/01/2022 - 01/02/2022</td>
+</tr>
+<tr>
+<td>SGPMC687</td>
+<td>E10 Thới Hòa, Bình Chánh</td>
+<td>HCM</td>
+<td>Huyện Bình Chánh</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 20h
+Mùng 1: 7h - 23h</td>
+<td>31/01/2022 - 01/02/2022</td>
+</tr>
+<tr>
+<td>SGPMC710</td>
+<td>C13/49 Ấp 3 Xã Bình Chánh, Bình Chánh</td>
+<td>HCM</td>
+<td>Huyện Bình Chánh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC727</td>
+<td>KDC Trung Sơn, Bình Chánh</td>
+<td>HCM</td>
+<td>Huyện Bình Chánh</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 20h
+Mùng 1: 7h - 23h</td>
+<td>31/01/2022 - 01/02/2022</td>
+</tr>
+<tr>
+<td>SGPMC738</td>
+<td>Hưng Long, Bình Chánh</td>
+<td>HCM</td>
+<td>Huyện Bình Chánh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC762</td>
+<td>A8/27 đường 1A, Bình Chánh</td>
+<td>HCM</td>
+<td>Huyện Bình Chánh</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 20h
+Mùng 1: 7h - 23h</td>
+<td>31/01/2022 - 01/02/2022</td>
+</tr>
+<tr>
+<td>SGPMC809</td>
+<td>A1/28 Vĩnh Lộc A, Bình Chánh</td>
+<td>HCM</td>
+<td>Huyện Bình Chánh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC039</td>
+<td>Đường Số 1</td>
+<td>HCM</td>
+<td>Quận Bình Tân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC110</td>
+<td>Tỉnh lộ 10</td>
+<td>HCM</td>
+<td>Quận Bình Tân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC140</td>
+<td>Khu dân cư Lê Thành</td>
+<td>HCM</td>
+<td>Quận Bình Tân</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 20h
+Mùng 1: 7h - 23h</td>
+<td>31/01/2022 - 01/02/2022</td>
+</tr>
+<tr>
+<td>SGPMC145</td>
+<td>173 An Dương Vương</td>
+<td>HCM</td>
+<td>Quận Bình Tân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC150</td>
+<td>257A An Dương Vương</td>
+<td>HCM</td>
+<td>Quận Bình Tân</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 20h
+Mùng 1: 7h - 23h</td>
+<td>31/01/2022 - 01/02/2022</td>
+</tr>
+<tr>
+<td>SGPMC171</td>
+<td>28A Đường số 1</td>
+<td>HCM</td>
+<td>Quận Bình Tân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC183</td>
+<td>204 Gò Xoài</td>
+<td>HCM</td>
+<td>Quận Bình Tân</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 20h
+Mùng 1: 7h - 23h</td>
+<td>31/01/2022 - 01/02/2022</td>
+</tr>
+<tr>
+<td>SGPMC193</td>
+<td>8 Đường 40</td>
+<td>HCM</td>
+<td>Quận Bình Tân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC214</td>
+<td>715 Tỉnh lộ 10</td>
+<td>HCM</td>
+<td>Quận Bình Tân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC275</td>
+<td>354 ACD Bình Trị Đông</td>
+<td>HCM</td>
+<td>Quận Bình Tân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC281</td>
+<td>2A/1 An Dương Vương</td>
+<td>HCM</td>
+<td>Quận Bình Tân</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 20h
+Mùng 1: 7h - 23h</td>
+<td>31/01/2022 - 01/02/2022</td>
+</tr>
+<tr>
+<td>SGPMC287</td>
+<td>632 Hương Lộ 2</td>
+<td>HCM</td>
+<td>Quận Bình Tân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC407</td>
+<td>4445 Nguyễn Cửu Phú</td>
+<td>HCM</td>
+<td>Quận Bình Tân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC455</td>
+<td>Moonlight Boulevard</td>
+<td>HCM</td>
+<td>Quận Bình Tân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC791</td>
+<td>802 Tân Kỳ Tân Quý, Bình Tân</td>
+<td>HCM</td>
+<td>Quận Bình Tân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC827</td>
+<td>109 Bình Trị Đông, Bình Tân</td>
+<td>HCM</td>
+<td>Quận Bình Tân</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 20h
+Mùng 1: 7h - 23h</td>
+<td>31/01/2022 - 01/02/2022</td>
+</tr>
+<tr>
+<td>SGPMC839</td>
+<td>60 Liên Khu 10-11, Bình Tân</td>
+<td>HCM</td>
+<td>Quận Bình Tân</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC128</td>
+<td>51 Đồ Chiểu</td>
+<td>Vung Tau</td>
+<td>Thành phố Vũng Tàu</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC167</td>
+<td>93 Lê Lợi</td>
+<td>Vung Tau</td>
+<td>Thành phố Vũng Tàu</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC216</td>
+<td>1A Lương Thế Vinh</td>
+<td>Vung Tau</td>
+<td>Thành phố Vũng Tàu</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 21h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC254</td>
+<td>48-50 Lý Thường Kiệt, Vũng Tàu</td>
+<td>Vung Tau</td>
+<td>Thành phố Vũng Tàu</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC256</td>
+<td>204 Nguyễn Thanh Đằng</td>
+<td>Vung Tau</td>
+<td>Thành phố Bà Rịa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC267</td>
+<td>505 Nguyễn An Ninh, Vũng Tàu</td>
+<td>Vung Tau</td>
+<td>Thành phố Vũng Tàu</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC309</td>
+<td>219 Nguyễn Hữu Cảnh, Vũng Tàu</td>
+<td>Vung Tau</td>
+<td>Thành phố Vũng Tàu</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC322</td>
+<td>414 Trương Công Định, Vũng Tàu</td>
+<td>Vung Tau</td>
+<td>Thành phố Vũng Tàu</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 21h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC378</td>
+<td>31 Nguyễn Văn Cừ, Vũng Tàu</td>
+<td>Vung Tau</td>
+<td>Thành phố Bà Rịa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC471</td>
+<td>2 Nguyễn Văn Trỗi, Vũng Tàu</td>
+<td>Vung Tau</td>
+<td>Thành phố Vũng Tàu</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC556</td>
+<td>258 CMT8, Vũng Tàu</td>
+<td>Vung Tau</td>
+<td>Thành phố Bà Rịa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC585</td>
+<td>Phú Mỹ, Vũng Tàu</td>
+<td>Vung Tau</td>
+<td>Thị xã Phú Mỹ</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC613</td>
+<td>27C Hùng Vương, Vũng Tàu</td>
+<td>Vung Tau</td>
+<td>Thành phố Bà Rịa</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 21h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC617</td>
+<td>782 Trần Phú, Vũng Tàu</td>
+<td>Vung Tau</td>
+<td>Thành phố Vũng Tàu</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC674</td>
+<td>242B Hùng Vương, Vũng Tàu</td>
+<td>Vung Tau</td>
+<td>Huyện Châu Đức</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC726</td>
+<td>18 Nguyễn Trường Tộ, Vũng Tàu</td>
+<td>Vung Tau</td>
+<td>Thành phố Vũng Tàu</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC714</td>
+<td>177 Hùng Vương, Vũng Tàu</td>
+<td>Vung Tau</td>
+<td>Huyện Châu Đức</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 21h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC499</td>
+<td>38C Trần Phú, Đà Lạt</td>
+<td>Lam Dong</td>
+<td>Thành phố Đà Lạt</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC521</td>
+<td>288 Bùi Thị Xuân, Đà Lạt</td>
+<td>Lam Dong</td>
+<td>Thành phố Đà Lạt</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC535</td>
+<td>74 Thống Nhất, Đức Trọng</td>
+<td>Lam Dong</td>
+<td>Huyện Đức Trọng</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC540</td>
+<td>46 Bùi Thị Xuân, Đà Lạt</td>
+<td>Lam Dong</td>
+<td>Thành phố Đà Lạt</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC558</td>
+<td>Số 705 Quốc Lộ 20, Đức Trọng</td>
+<td>Lam Dong</td>
+<td>Huyện Đức Trọng</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC580</td>
+<td>56 La Sơn Phu Tử, Đà Lạt</td>
+<td>Lam Dong</td>
+<td>Thành phố Đà Lạt</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC604</td>
+<td>42 Phan Đình Phùng, Đà Lạt</td>
+<td>Lam Dong</td>
+<td>Thành phố Đà Lạt</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC625</td>
+<td>444 QL20, Đức Trọng</td>
+<td>Lam Dong</td>
+<td>Huyện Đức Trọng</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC631</td>
+<td>56A Trần Hưng Đạo, Đức Trọng</td>
+<td>Lam Dong</td>
+<td>Huyện Đức Trọng</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC798</td>
+<td>GO Quảng trường Lâm Viên, Đà Lạt</td>
+<td>Lam Dong</td>
+<td>Thành phố Đà Lạt</td>
+<td>Open Nomal</td>
+<td></td>
+<td>Bán đến 14h00 ngày 29 Tết
+Mùng 1 nghỉ (01/02)
+Mùng 2 hoạt động bình thường</td>
+</tr>
+<tr>
+<td>SGPMC994</td>
+<td>139 Phan Đình Phùng, TP Đà Lạt,</td>
+<td>Lam Dong</td>
+<td>Thành phố Đà Lạt</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC828</td>
+<td>46 Phù Đổng Thiên Vương</td>
+<td>Lam Dong</td>
+<td>Thành phố Đà Lạt</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC624</td>
+<td>14 Lê Đại Hành, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Thành phố Biên Hòa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC633</td>
+<td>76A Bình Minh - Quảng Tiến, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Huyện Trảng Bom</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC634</td>
+<td>328 Hồng Thập Tự, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Thị xã Long Khánh</td>
+<td>Open full during TET</td>
+<td>29 tết 6h-21h
+Mùng 1 tết 7h-23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC641</td>
+<td>214 Quốc lộ 01, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Thành phố Biên Hòa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC642</td>
+<td>232 Đường 20, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Huyện Trảng Bom</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC649</td>
+<td>28 Quang Trung, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Thị xã Long Khánh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC658</td>
+<td>56 Hoàng Diệu, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Thị xã Long Khánh</td>
+<td>Open full during TET</td>
+<td>29 tết 6h-21h
+Mùng 1 tết 7h-23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC659</td>
+<td>226 Yên Thế, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Huyện Trảng Bom</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC660</td>
+<td>48 Trần Phú, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Thị xã Long Khánh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC715</td>
+<td>5B Hùng Vương, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Thị xã Long Khánh</td>
+<td>Open full during TET</td>
+<td>29 tết 6h-21h
+Mùng 1 tết 7h-23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC085</td>
+<td>06 Dương Thị Mười</td>
+<td>HCM</td>
+<td>Quận 12</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC179</td>
+<td>1127 Nguyễn Ảnh Thủ</td>
+<td>HCM</td>
+<td>Quận 12</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 21h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC189</td>
+<td>76H1 Nguyễn Ảnh Thủ</td>
+<td>HCM</td>
+<td>Quận 12</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC196</td>
+<td>621 Tô Ký</td>
+<td>HCM</td>
+<td>Quận 12</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC210</td>
+<td>568 Hà Huy Giáp</td>
+<td>HCM</td>
+<td>Quận 12</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC350</td>
+<td>MPN 143B Đường TA 16</td>
+<td>HCM</td>
+<td>Quận 12</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC352</td>
+<td>94 Trung Mỹ Tây 13</td>
+<td>HCM</td>
+<td>Quận 12</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC364</td>
+<td>80 Trung Mỹ Tây 2A</td>
+<td>HCM</td>
+<td>Quận 12</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC366</td>
+<td>2440/5 QL1A</td>
+<td>HCM</td>
+<td>Quận 12</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC392</td>
+<td>861A Nguyễn Ảnh Thủ</td>
+<td>HCM</td>
+<td>Quận 12</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC502</td>
+<td>22A/2 Nguyễn Ảnh Thủ</td>
+<td>HCM</td>
+<td>Quận 12</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC518</td>
+<td>363 Nguyễn Thị Kiểu</td>
+<td>HCM</td>
+<td>Quận 12</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC547</td>
+<td>0397/1B Vườn Lài</td>
+<td>HCM</td>
+<td>Quận 12</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC723</td>
+<td>235 Trần Thị Cờ, Q12</td>
+<td>HCM</td>
+<td>Quận 12</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 21h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC795</td>
+<td>144/4B Lê Văn Khương, , Q12</td>
+<td>HCM</td>
+<td>Quận 12</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HAG</td>
+<td>Hoàng Anh Gia Lai</td>
+<td>HCM</td>
+<td>Huyện Nhà Bè</td>
+<td>Open Nomal</td>
+<td>Từ 8:00 đến 16:00 (**)</td>
+<td>Bán đến 12h30 ngày 29 Tết,
+Mùng 1 nghỉ (01/02)
+Mùng 2-3-4 theo (**)
+Mùng 5 bán bình thường</td>
+</tr>
+<tr>
+<td>SGPMC040</td>
+<td>Hoàng Diệu</td>
+<td>HCM</td>
+<td>Quận 4</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC079</td>
+<td>Xóm Chiếu</td>
+<td>HCM</td>
+<td>Quận 4</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC117</td>
+<td>Đoàn Văn Bơ</td>
+<td>HCM</td>
+<td>Quận 4</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 21h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC182</td>
+<td>88 Nguyễn Khoái</td>
+<td>HCM</td>
+<td>Quận 4</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 21h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC221</td>
+<td>69 Vĩnh Hội</td>
+<td>HCM</td>
+<td>Quận 4</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 21h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC223</td>
+<td>280A Nguyễn Tất Thành</td>
+<td>HCM</td>
+<td>Quận 4</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC319</td>
+<td>River Gate Bến Vân Đồn</td>
+<td>HCM</td>
+<td>Quận 4</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC365</td>
+<td>Sunrise Riverside</td>
+<td>HCM</td>
+<td>Huyện Nhà Bè</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 21h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC425</td>
+<td>1018 Lê Văn Lương</td>
+<td>HCM</td>
+<td>Huyện Nhà Bè</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC576</td>
+<td>Millennium</td>
+<td>HCM</td>
+<td>Quận 4</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 21h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC661</td>
+<td>5/3 Huỳnh Tấn Phát</td>
+<td>HCM</td>
+<td>Huyện Nhà Bè</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC688</td>
+<td>467A Nguyễn Văn Tạo, Nhà Bè</td>
+<td>HCM</td>
+<td>Huyện Nhà Bè</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC837</td>
+<td>The Park Residence, Nhà Bè</td>
+<td>HCM</td>
+<td>Huyện Nhà Bè</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 21h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC051</td>
+<td>Nguyễn Thái Bình</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC092</td>
+<td>Nghĩa Phát</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC131</td>
+<td>Bạch Đằng</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC135</td>
+<td>Skycenter</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC158</td>
+<td>165 Hoàng Hoa Thám</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC176</td>
+<td>28 Đường A4</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC195</td>
+<td>739 Cách Mạng Tháng 8</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC228</td>
+<td>Cửa Hàng Xăng Dầu - 380 Lê Văn Sỹ</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC272</td>
+<td>128H Phạm Văn Hai</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC345</td>
+<td>106 Hồng Hà</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC355</td>
+<td>16 Hát Giang</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC358</td>
+<td>45 - 45A Hoàng Việt</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC379</td>
+<td>26 Bình Giã</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC381</td>
+<td>111 Tân Hải</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC426</td>
+<td>89 Thân Nhân Trung</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC725</td>
+<td>43 Thăng Long, Tân Bình</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC933</td>
+<td>37 Lê Bình, Tân Bình</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC077</td>
+<td>02 Trúc Đường</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC125</td>
+<td>New City</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC165</td>
+<td>33B  Xuân Thủy</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC168</td>
+<td>30 Nguyễn Văn Hưởng</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC200</td>
+<td>Đảo Kim Cương</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC205</td>
+<td>Cantavil An Phú</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC246</td>
+<td>44 Quốc Hương</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC300</td>
+<td>Sun Avenue 2 - 17</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC312</td>
+<td>166 Đường số 51</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC316</td>
+<td>Chung cư Bộ Công An</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC337</td>
+<td>Sun Avenue 7 - 05</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC362</td>
+<td>Vista Verde</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC486</td>
+<td>13 - 15 Thảo Điền</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC591</td>
+<td>Sarimi M1</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC694</td>
+<td>2 An Phú, Q2</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC735</td>
+<td>Mega Market, Q2</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Open Nomal</td>
+<td>Mùng 2 7h-15h (**)
+Mùng 3 7h-20h (**)</td>
+<td>Bán đến 12h30 ngày 29 Tết,
+Mùng 1 nghỉ (01/02)
+Mùng 2-3 theo lịch (**)
+Mùng 4 bán bình thường</td>
+</tr>
+<tr>
+<td>SGPMC749</td>
+<td>8 Võ Trường Toản, Q2</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Open Nomal</td>
+<td>7h-20h mổi ngày ROD đã duyệt</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC794</td>
+<td>Terrace, Q2</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Open Nomal</td>
+<td>7h-20h mổi ngày ROD đã duyệt</td>
+<td></td>
+</tr>
+<tr>
+<td>TDN</td>
+<td>Thảo Điền</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC045</td>
+<td>Lũy Bán Bích</td>
+<td>HCM</td>
+<td>Quận Tân Phú</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC050</td>
+<td>Trịnh Đình Trọng</td>
+<td>HCM</td>
+<td>Quận Tân Phú</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC148</td>
+<td>102 Vườn Lài</td>
+<td>HCM</td>
+<td>Quận Tân Phú</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC155</td>
+<td>86 Nguyễn Xuân Khoát</td>
+<td>HCM</td>
+<td>Quận Tân Phú</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC162</td>
+<td>81 Lê Quốc Trinh</td>
+<td>HCM</td>
+<td>Quận Tân Phú</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC239</td>
+<td>258 Nguyễn Sơn</td>
+<td>HCM</td>
+<td>Quận Tân Phú</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC242</td>
+<td>193 Thạch Lam</td>
+<td>HCM</td>
+<td>Quận Tân Phú</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC347</td>
+<td>69 Nguyễn Thái Học</td>
+<td>HCM</td>
+<td>Quận Tân Phú</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC402</td>
+<td>32 Độc Lập</td>
+<td>HCM</td>
+<td>Quận Tân Phú</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC420</td>
+<td>242 Lê Lâm</td>
+<td>HCM</td>
+<td>Quận Tân Phú</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC447</td>
+<td>827 Âu Cơ</td>
+<td>HCM</td>
+<td>Quận Tân Phú</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC459</td>
+<td>341/15 Khuông Việt</td>
+<td>HCM</td>
+<td>Quận Tân Phú</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC469</td>
+<td>Richstar</td>
+<td>HCM</td>
+<td>Quận Tân Phú</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC470</td>
+<td>38B - 38C Gò Dầu</td>
+<td>HCM</td>
+<td>Quận Tân Phú</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC474</td>
+<td>345 Âu Cơ</td>
+<td>HCM</td>
+<td>Quận Tân Phú</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC534</td>
+<td>RS3 Richstar</td>
+<td>HCM</td>
+<td>Quận Tân Phú</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC151</td>
+<td>245 Vĩnh Viễn</td>
+<td>HCM</td>
+<td>Quận 10</td>
+<td>Open full during TET</td>
+<td>06h - 21h
+7h - 23h</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>SGPMC154</td>
+<td>189 Sư Vạn Hạnh</td>
+<td>HCM</td>
+<td>Quận 10</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC222</td>
+<td>81A Ngô Quyền</td>
+<td>HCM</td>
+<td>Quận 10</td>
+<td>Open full during TET</td>
+<td>06h - 21h
+7h - 23h</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>SGPMC235</td>
+<td>99 Cửu Long</td>
+<td>HCM</td>
+<td>Quận 10</td>
+<td>Open full during TET</td>
+<td>06h - 21h
+7h - 23h</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>SGPMC250</td>
+<td>131 Thành Thái</td>
+<td>HCM</td>
+<td>Quận 10</td>
+<td>Open full during TET</td>
+<td>06h - 21h
+7h - 23h</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>SGPMC288</td>
+<td>666/66 đường 3/2</td>
+<td>HCM</td>
+<td>Quận 10</td>
+<td>Open full during TET</td>
+<td>06h - 21h
+7h - 23h</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>SGPMC333</td>
+<td>217 Bà Hạt</td>
+<td>HCM</td>
+<td>Quận 10</td>
+<td>Open full during TET</td>
+<td>06h - 21h
+7h - 23h</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>SGPMC335</td>
+<td>285/96 CMT8</td>
+<td>HCM</td>
+<td>Quận 10</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC401</td>
+<td>396 Nguyễn Tri Phương</td>
+<td>HCM</td>
+<td>Quận 10</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC403</td>
+<td>169 Tô Hiến Thành</td>
+<td>HCM</td>
+<td>Quận 10</td>
+<td>Open full during TET</td>
+<td>06h - 21h
+7h - 23h</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>SGPMC419</td>
+<td>630 Bà Hạt</td>
+<td>HCM</td>
+<td>Quận 10</td>
+<td>Open full during TET</td>
+<td>06h - 21h
+7h - 23h</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>SGPMC424</td>
+<td>258 - 260 Cao Thắng</td>
+<td>HCM</td>
+<td>Quận 10</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC452</td>
+<td>Rivera Park</td>
+<td>HCM</td>
+<td>Quận 10</td>
+<td>Open full during TET</td>
+<td>06h - 21h
+7h - 23h</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>SGPMC526</td>
+<td>389 Cách Mạng Tháng Tám</td>
+<td>HCM</td>
+<td>Quận 10</td>
+<td>Open full during TET</td>
+<td>06h - 21h
+7h - 23h</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>SGPMC528</td>
+<td>121 Nguyễn Lâm</td>
+<td>HCM</td>
+<td>Quận 10</td>
+<td>Open full during TET</td>
+<td>06h - 21h
+7h - 23h</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>SGPMC598</td>
+<td>376 Lê Hồng Phong</td>
+<td>HCM</td>
+<td>Quận 10</td>
+<td>Open full during TET</td>
+<td>06h - 21h
+7h - 23h</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>SGPMC835</td>
+<td>595 CMT8, Quận 10</td>
+<td>HCM</td>
+<td>Quận 10</td>
+<td>Open full during TET</td>
+<td>06h - 21h
+7h - 23h</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>SGPMC101</td>
+<td>141 Nam Hòa</td>
+<td>HCM</td>
+<td>Quận 9</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC102</td>
+<td>88 Dương Đình Hội</td>
+<td>HCM</td>
+<td>Quận 9</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC178</td>
+<td>212 Đỗ Xuân Hợp</td>
+<td>HCM</td>
+<td>Quận 9</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC265</td>
+<td>219 Nguyễn Văn Tăng</td>
+<td>HCM</td>
+<td>Quận 9</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC306</td>
+<td>56 Đình Phong Phú</td>
+<td>HCM</td>
+<td>Quận 9</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC336</td>
+<td>Jamila Khang Điền</td>
+<td>HCM</td>
+<td>Quận 9</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC406</td>
+<td>66 Tây Hòa</td>
+<td>HCM</td>
+<td>Quận 9</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC414</td>
+<td>456A Nguyễn Văn Tăng</td>
+<td>HCM</td>
+<td>Quận 9</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC416</td>
+<td>553 - 553A Đỗ Xuân Hợp</td>
+<td>HCM</td>
+<td>Quận 9</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC430</td>
+<td>68 đường số 1</td>
+<td>HCM</td>
+<td>Quận 9</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 21h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC438</td>
+<td>49 Đường số 18</td>
+<td>HCM</td>
+<td>Quận 9</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC444</td>
+<td>901A - 903 Nguyễn Duy Trinh</td>
+<td>HCM</td>
+<td>Quận 9</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 21h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC445</td>
+<td>9 View Apartment</td>
+<td>HCM</td>
+<td>Quận 9</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC602</td>
+<td>1368 Nguyễn Duy Trinh</td>
+<td>HCM</td>
+<td>Quận 9</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC692</td>
+<td>734 Nguyễn Xiển, Q9</td>
+<td>HCM</td>
+<td>Quận 9</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC713</td>
+<td>225A Đình Phong Phú, Q9</td>
+<td>HCM</td>
+<td>Quận 9</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC844</td>
+<td>212 Hoàng Hữu Nam, Q9</td>
+<td>HCM</td>
+<td>Quận 9</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC206</td>
+<td>76 Nguyễn Thị Thập</td>
+<td>HCM</td>
+<td>Quận 7</td>
+<td>Open full during TET</td>
+<td>29 tết: 6h -21h
+Mùng 1: 7h -23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC211</td>
+<td>51A Lý Phục Man</td>
+<td>HCM</td>
+<td>Quận 7</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC212</td>
+<td>The Era Town</td>
+<td>HCM</td>
+<td>Quận 7</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC264</td>
+<td>36 Trần Trọng Cung</td>
+<td>HCM</td>
+<td>Quận 7</td>
+<td>Open full during TET</td>
+<td>29 tết: 6h -21h
+Mùng 1: 7h -23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC305</td>
+<td>571 Huỳnh Tấn Phát</td>
+<td>HCM</td>
+<td>Quận 7</td>
+<td>Open full during TET</td>
+<td>29 tết: 6h -21h
+Mùng 1: 7h -23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC323</td>
+<td>239A Lâm Văn Bền</td>
+<td>HCM</td>
+<td>Quận 7</td>
+<td>Open full during TET</td>
+<td>29 tết: 6h -21h
+Mùng 1: 7h -23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC380</td>
+<td>Khu Cảnh Viên II</td>
+<td>HCM</td>
+<td>Quận 7</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC473</td>
+<td>The Golden Star</td>
+<td>HCM</td>
+<td>Quận 7</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC508</td>
+<td>22 Đường D4</td>
+<td>HCM</td>
+<td>Quận 7</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC541</td>
+<td>Lux Garden</td>
+<td>HCM</td>
+<td>Quận 7</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC596</td>
+<td>49 Phạm Hữu Lầu</td>
+<td>HCM</td>
+<td>Quận 7</td>
+<td>Open full during TET</td>
+<td>29 tết: 6h -21h
+Mùng 1: 7h -23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC639</td>
+<td>1112 Huỳnh Tấn Phát</td>
+<td>HCM</td>
+<td>Quận 7</td>
+<td>Open full during TET</td>
+<td>29 tết: 6h -21h
+Mùng 1: 7h -23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC086</td>
+<td>81 Man Thiện</td>
+<td>HCM</td>
+<td>Quận 9</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC094</td>
+<td>Lã Xuân Oai</td>
+<td>HCM</td>
+<td>Quận 9</td>
+<td>Open full during TET</td>
+<td>14h - 23h
+7h - 23h</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>SGPMC127</td>
+<td>Đường số 5</td>
+<td>HCM</td>
+<td>Quận Thủ Đức</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC137</td>
+<td>51 Đường Số 8</td>
+<td>HCM</td>
+<td>Quận Thủ Đức</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC173</td>
+<td>60 Lê Văn Chí</td>
+<td>HCM</td>
+<td>Quận Thủ Đức</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC174</td>
+<td>B2.1 Đường 385</td>
+<td>HCM</td>
+<td>Quận 9</td>
+<td>Open full during TET</td>
+<td>14h - 18h
+7h - 23h</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>SGPMC227</td>
+<td>258 Man Thiện</td>
+<td>HCM</td>
+<td>Quận 9</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC240</td>
+<td>93-95 Lê Văn Việt</td>
+<td>HCM</td>
+<td>Quận 9</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC241</td>
+<td>309 - 311 Lê Văn Việt</td>
+<td>HCM</td>
+<td>Quận 9</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC277</td>
+<td>122 Hoàng Diệu 2</td>
+<td>HCM</td>
+<td>Quận Thủ Đức</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC376</td>
+<td>1242 Kha Vạn Cân</td>
+<td>HCM</td>
+<td>Quận Thủ Đức</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC487</td>
+<td>01 đường Làng Tăng Phú</td>
+<td>HCM</td>
+<td>Quận 9</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC517</td>
+<td>191 Hoàng Diệu 2</td>
+<td>HCM</td>
+<td>Quận Thủ Đức</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC597</td>
+<td>32 Nam Cao</td>
+<td>HCM</td>
+<td>Quận 9</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC690</td>
+<td>65 đường số 11, Thủ Đức</td>
+<td>HCM</td>
+<td>Quận Thủ Đức</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC802</td>
+<td>Số 138 Linh Trung, Thủ Đức</td>
+<td>HCM</td>
+<td>Quận Thủ Đức</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC034</td>
+<td>Tân Kỳ Tân Quý</td>
+<td>HCM</td>
+<td>Quận Tân Phú</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC078</td>
+<td>55 Cầu Xéo</td>
+<td>HCM</td>
+<td>Quận Tân Phú</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC091</td>
+<td>323 Tân Kỳ Tân Quý</td>
+<td>HCM</td>
+<td>Quận Tân Phú</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC099</td>
+<td>9A Đường TTN12</td>
+<td>HCM</td>
+<td>Quận 12</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC116</td>
+<td>Trần Tấn</td>
+<td>HCM</td>
+<td>Quận Tân Phú</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC136</td>
+<td>1072-1074 Nguyễn Văn Quá</td>
+<td>HCM</td>
+<td>Quận 12</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC149</td>
+<td>Tân Quý</td>
+<td>HCM</td>
+<td>Quận Tân Phú</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC157</td>
+<td>B105 Nguyễn Văn Quá</td>
+<td>HCM</td>
+<td>Quận 12</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC225</td>
+<td>43 - 45 Đường C2</td>
+<td>HCM</td>
+<td>Quận Tân Phú</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC244</td>
+<td>199 Tân Sơn Nhì</td>
+<td>HCM</td>
+<td>Quận Tân Phú</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC259</td>
+<td>347 Nguyễn Văn Quá</td>
+<td>HCM</td>
+<td>Quận 12</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC328</td>
+<td>22/14 Trường Chinh</td>
+<td>HCM</td>
+<td>Quận 12</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC387</td>
+<td>201A Bờ Bao Tân Thắng</td>
+<td>HCM</td>
+<td>Quận Tân Phú</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC411</td>
+<td>96 Phan Văn Hớn</td>
+<td>HCM</td>
+<td>Quận 12</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC479</td>
+<td>1H9 đường DD12</td>
+<td>HCM</td>
+<td>Quận 12</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC048</td>
+<td>Tô Ngọc Vân</td>
+<td>HCM</td>
+<td>Quận Thủ Đức</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC071</td>
+<td>627 Tinh Lo 43</td>
+<td>HCM</td>
+<td>Quận Thủ Đức</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC081</td>
+<td>247 Tô Ngọc Vân</td>
+<td>HCM</td>
+<td>Quận Thủ Đức</td>
+<td>Open full during TET</td>
+<td>29 Tết: 6h - 22h
+Mùng 1: 7h - 23h</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>SGPMC111</td>
+<td>86 Tô Ngọc Vân</td>
+<td>HCM</td>
+<td>Quận Thủ Đức</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC139</td>
+<td>Đường số 1</td>
+<td>HCM</td>
+<td>Quận Thủ Đức</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC186</td>
+<td>33 Hiệp Bình</td>
+<td>HCM</td>
+<td>Quận Thủ Đức</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC251</td>
+<td>18 Gò Dưa</td>
+<td>HCM</td>
+<td>Quận Thủ Đức</td>
+<td>Open full during TET</td>
+<td>29 Tết: 6h - 22h
+Mùng 1: 7h - 23h</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>SGPMC253</td>
+<td>622A Kha Vạn Cân</td>
+<td>HCM</td>
+<td>Quận Thủ Đức</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC273</td>
+<td>32 Hồ Văn Tư</td>
+<td>HCM</td>
+<td>Quận Thủ Đức</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC317</td>
+<td>1097B Tỉnh lộ 43</td>
+<td>HCM</td>
+<td>Quận Thủ Đức</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC330</td>
+<td>157 Đặng Văn Bi</td>
+<td>HCM</td>
+<td>Quận Thủ Đức</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC342</td>
+<td>2B Bình Chiểu, Phường Bình Chiểu</td>
+<td>HCM</td>
+<td>Quận Thủ Đức</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC509</td>
+<td>38 Đường số 2</td>
+<td>HCM</td>
+<td>Quận Thủ Đức</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC555</td>
+<td>1148 Tỉnh lộ 43</td>
+<td>HCM</td>
+<td>Quận Thủ Đức</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC730</td>
+<td>753B Kha Vạn Cân, Thủ Đức</td>
+<td>HCM</td>
+<td>Quận Thủ Đức</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC089</td>
+<td>207 Xuyên Á</td>
+<td>Binh Duong</td>
+<td>Thị xã Dĩ An</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC113</td>
+<td>Đường Mồi</td>
+<td>Binh Duong</td>
+<td>Thị xã Dĩ An</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC114</td>
+<td>Bình Đường 3</td>
+<td>Binh Duong</td>
+<td>Thị xã Dĩ An</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC121</td>
+<td>577 Đường Dĩ An</td>
+<td>Binh Duong</td>
+<td>Thị xã Dĩ An</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC147</td>
+<td>Bình Đường 2</td>
+<td>Binh Duong</td>
+<td>Thị xã Dĩ An</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC449</td>
+<td>50 - 52 Nguyễn An Ninh,Bình Dương</td>
+<td>Binh Duong</td>
+<td>Thị xã Dĩ An</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC497</td>
+<td>Vincom Dĩ An, Bình Dương</td>
+<td>Binh Duong</td>
+<td>Thị xã Dĩ An</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC545</td>
+<td>403 Lý Thường Kiệt, Bình Dương</td>
+<td>Binh Duong</td>
+<td>Thị xã Dĩ An</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC620</td>
+<td>429 - 431 Trần Hưng Đạo, Bình Dương</td>
+<td>Binh Duong</td>
+<td>Thị xã Dĩ An</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC662</td>
+<td>549 Đường DT743A, Bình Dương</td>
+<td>Binh Duong</td>
+<td>Thị xã Dĩ An</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC718</td>
+<td>640 Nguyễn Thị Minh Khai, Bình Dương</td>
+<td>Binh Duong</td>
+<td>Thị xã Dĩ An</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC855</td>
+<td>497 Quốc lộ 1K, Bình Dương</td>
+<td>Binh Duong</td>
+<td>Thị xã Dĩ An</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>HLC</td>
+<td>Hồng Lạc</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC057</td>
+<td>151 Đồng Đen</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC072</td>
+<td>121 Phạm Phú Thứ</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC097</td>
+<td>109 Ni Sư Huỳnh Liên</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC098</td>
+<td>76 Đồng Đen</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC103</td>
+<td>Cống Lỡ</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC112</td>
+<td>72 Nguyễn Hồng Đào</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC115</td>
+<td>Phan Huy Ích</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC144</td>
+<td>Trần Văn Quang</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC181</td>
+<td>628 Âu Cơ</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC234</td>
+<td>60 - 62 Trương Công Định</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC371</td>
+<td>306 Hồng Lạc</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC465</td>
+<td>687 Lạc Long Quân</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC578</td>
+<td>621 Lý Thường Kiệt</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC751</td>
+<td>25 – 25A Nguyễn Sỹ Sách, Tân Bình</td>
+<td>HCM</td>
+<td>Quận Tân Bình</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>LVS</td>
+<td>Lê Văn Sỹ</td>
+<td>HCM</td>
+<td>Quận 3</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>PAS</td>
+<td>Pasteur</td>
+<td>HCM</td>
+<td>Quận 3</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC037</td>
+<td>Nguyễn Thiện Thuật</td>
+<td>HCM</td>
+<td>Quận 3</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC038</td>
+<td>Nguyễn Đình Chiểu</td>
+<td>HCM</td>
+<td>Quận 3</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC055</td>
+<td>213/17 Bis Nguyen Thien Thuat</td>
+<td>HCM</td>
+<td>Quận 3</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC062</td>
+<td>177-179 Trần Nhân Tôn</td>
+<td>HCM</td>
+<td>Quận 10</td>
+<td>Open full during TET</td>
+<td>29 tết: 6h -22h
+Mùng 1: 6h -22h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC087</td>
+<td>Vườn Chuối</td>
+<td>HCM</td>
+<td>Quận 3</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC192</td>
+<td>3 Hồ Thị Kỷ</td>
+<td>HCM</td>
+<td>Quận 10</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC230</td>
+<td>Cửa Hàng Xăng Dầu - 158 Hùng Vương</td>
+<td>HCM</td>
+<td>Quận 10</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC231</td>
+<td>Cửa Hàng Xăng Dầu - 70 Trương Định</td>
+<td>HCM</td>
+<td>Quận 3</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC427</td>
+<td>384A Lý Thái Tổ</td>
+<td>HCM</td>
+<td>Quận 10</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC592</td>
+<td>373 Hai Bà Trưng</td>
+<td>HCM</td>
+<td>Quận 3</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC765</td>
+<td>29B-29C Trần Quốc Toản, Q3</td>
+<td>HCM</td>
+<td>Quận 3</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC607</td>
+<td>KDC Khu phố 2, Bình Thuận</td>
+<td>Binh Thuan</td>
+<td>Thành phố Phan Thiết</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC630</td>
+<td>Q41 Tôn Đức Thắng, Phan Thiết</td>
+<td>Binh Thuan</td>
+<td>Thành phố Phan Thiết</td>
+<td>Open full during TET</td>
+<td>6h00-20h00 ngày 29 AL và 7h00-23h00 mùng 1 Tết</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC648</td>
+<td>200 Tôn Đức Thắng, Phan Thiết</td>
+<td>Binh Thuan</td>
+<td>Thành phố Phan Thiết</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC697</td>
+<td>150 Thủ Khoa Huân, Phan Thiết</td>
+<td>Binh Thuan</td>
+<td>Thành phố Phan Thiết</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC699</td>
+<td>16 - 18 Nguyễn Thị Minh Khai, Phan Thiết</td>
+<td>Binh Thuan</td>
+<td>Thành phố Phan Thiết</td>
+<td>Open full during TET</td>
+<td>6h00-20h00 ngày 29 AL và 6h00-23h00 mùng 1 Tết</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC700</td>
+<td>2 Nguyễn Du, Phan Thiết</td>
+<td>Binh Thuan</td>
+<td>Thành phố Phan Thiết</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC707</td>
+<td>35 Trương Văn Ly, Phan Thiết</td>
+<td>Binh Thuan</td>
+<td>Thành phố Phan Thiết</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC731</td>
+<td>407 Trần Hưng Đạo, Phan Thiết</td>
+<td>Binh Thuan</td>
+<td>Thành phố Phan Thiết</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC838</td>
+<td>129 Trần Hưng Đạo, Phan Thiết</td>
+<td>Binh Thuan</td>
+<td>Thành phố Phan Thiết</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC095</td>
+<td>670 Nguyễn Thị Định</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC118</td>
+<td>83 Nguyễn Duy Trinh</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC153</td>
+<td>403 Nguyễn Duy Trinh</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC170</td>
+<td>01 Đường số 24</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC202</td>
+<td>311L40 Đường H, Lương Định Của</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC276</td>
+<td>185B Nguyễn Thị Định</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC385</td>
+<td>7A Đỗ Xuân Hợp</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC405</td>
+<td>622 Nguyễn Duy Trinh</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC409</td>
+<td>Chung cư H1</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC436</td>
+<td>Lexington</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC516</td>
+<td>376 Nguyễn Thị Định</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC1009</td>
+<td>69D Phan Bội Châu, Buôn Ma Thuột</td>
+<td>Dak Lak</td>
+<td>Thành phố Buôn Ma Thuột</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC1040</td>
+<td>124A Ngô Quyền, BMT</td>
+<td>Dak Lak</td>
+<td>Thành phố Buôn Ma Thuột</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC995</td>
+<td>352 Phan Bội Châu, Buôn Ma Thuột</td>
+<td>Dak Lak</td>
+<td>Thành phố Buôn Ma Thuột</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC996</td>
+<td>45 Phan Chu Trinh, Buôn Ma Thuột</td>
+<td>Dak Lak</td>
+<td>Thành phố Buôn Ma Thuột</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC1061</td>
+<td>65 Lê Thánh Tông</td>
+<td>Dak Lak</td>
+<td>Thành phố Buôn Ma Thuột</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC1115</td>
+<td>99 Y Wang</td>
+<td>Dak Lak</td>
+<td>Thành phố Buôn Ma Thuột</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC1049</td>
+<td>157 Trần Quý Cáp</td>
+<td>Dak Lak</td>
+<td>Thành phố Buôn Ma Thuột</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC043</td>
+<td>Bùi Đình Túy</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC053</td>
+<td>110 Phan Văn Trị</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC054</td>
+<td>186 Phan Văn Trị</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC068</td>
+<td>336 Phan Văn Trị</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC090</td>
+<td>288 Nơ Trang Long</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC161</td>
+<td>194/21 Bạch Đằng</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC190</td>
+<td>275 Bạch Đằng</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC197</td>
+<td>397 Lê Quang Định</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC232</td>
+<td>358 XVNT</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC290</td>
+<td>Cây xăng 52 Nơ Trang Long</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC553</td>
+<td>306 Bùi Đình Túy</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC573</td>
+<td>Richmond</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC665</td>
+<td>17 Bình Lợi</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC741</td>
+<td>423C Nơ Trang Long, Bình Thạnh</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC805</td>
+<td>67 Hoàng Hoa Thám, Bình Thạnh</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>BMT</td>
+<td>Bùi Minh Trực</td>
+<td>HCM</td>
+<td>Quận 8</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>NTT</td>
+<td>Nguyễn Thị Tần</td>
+<td>HCM</td>
+<td>Quận 8</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC063</td>
+<td>116 Nguyễn Thị Tần</td>
+<td>HCM</td>
+<td>Quận 8</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC107</td>
+<td>577 Hưng Phú</td>
+<td>HCM</td>
+<td>Quận 8</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC109</td>
+<td>1227 Phạm Thế Hiển</td>
+<td>HCM</td>
+<td>Quận 8</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC146</td>
+<td>Dạ Nam</td>
+<td>HCM</td>
+<td>Quận 8</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC160</td>
+<td>01 Lô 15 Phạm Thế Hiển</td>
+<td>HCM</td>
+<td>Quận 8</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC224</td>
+<td>3431 Phạm Thế Hiển</td>
+<td>HCM</td>
+<td>Quận 8</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC260</td>
+<td>545 Tạ Quang Bửu</td>
+<td>HCM</td>
+<td>Quận 8</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC327</td>
+<td>Pega suite Tạ Quang Bửu</td>
+<td>HCM</td>
+<td>Quận 8</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC404</td>
+<td>365 Phạm Thế Hiển</td>
+<td>HCM</td>
+<td>Quận 8</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC440</td>
+<td>2272 Phạm Thế Hiển</td>
+<td>HCM</td>
+<td>Quận 8</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC618</td>
+<td>Diamond Riverside</td>
+<td>HCM</td>
+<td>Quận 8</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC657</td>
+<td>709 Ba Đình</td>
+<td>HCM</td>
+<td>Quận 8</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC671</td>
+<td>277C Âu Dương Lân</td>
+<td>HCM</td>
+<td>Quận 8</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC689</td>
+<td>111A - 113 Xóm Củi</td>
+<td>HCM</td>
+<td>Quận 8</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>PXL</td>
+<td>Phan Xích Long</td>
+<td>HCM</td>
+<td>Quận Phú Nhuận</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC036</td>
+<td>Nguyễn Văn Đậu</td>
+<td>HCM</td>
+<td>Quận Phú Nhuận</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC067</td>
+<td>82 Nguyễn Văn Đậu</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC082</td>
+<td>222 Nguyễn Trọng Tuyển</td>
+<td>HCM</td>
+<td>Quận Phú Nhuận</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC175</td>
+<td>Dang Van Ngu</td>
+<td>HCM</td>
+<td>Quận Phú Nhuận</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC198</td>
+<td>282 Bạch Đằng</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC280</td>
+<td>54 Nhiêu Tứ</td>
+<td>HCM</td>
+<td>Quận Phú Nhuận</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC359</td>
+<td>429 Phan Xích Long</td>
+<td>HCM</td>
+<td>Quận Phú Nhuận</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC370</td>
+<td>311 Lê Quang Định</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC390</td>
+<td>68 Thích Quảng Đức</td>
+<td>HCM</td>
+<td>Quận Phú Nhuận</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC413</td>
+<td>34 Vũ Tùng</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC418</td>
+<td>80 - 82 Vũ Huy Tấn</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC500</td>
+<td>215 Phan Đình Phùng</td>
+<td>HCM</td>
+<td>Quận Phú Nhuận</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC696</td>
+<td>16 Trần Huy Liệu, Phú Nhuận</td>
+<td>HCM</td>
+<td>Quận Phú Nhuận</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC258</td>
+<td>147C CMT8, Biên Hòa</td>
+<td>Dong Nai</td>
+<td>Thành phố Biên Hòa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC423</td>
+<td>F231 Võ Thị Sáu, Biên Hòa</td>
+<td>Dong Nai</td>
+<td>Thành phố Biên Hòa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC501</td>
+<td>315 Đường 30/4, Biên Hòa</td>
+<td>Dong Nai</td>
+<td>Thành phố Biên Hòa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC532</td>
+<td>112 Bùi Văn Hoà, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Thành phố Biên Hòa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC561</td>
+<td>36 Đường D2, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Thành phố Biên Hòa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC575</td>
+<td>28 Đặng Văn Trơn, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Thành phố Biên Hòa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC586</td>
+<td>1906 - 1908 Quốc lộ 51, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Huyện Long Thành</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC587</td>
+<td>372 Quốc lộ 51, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Huyện Long Thành</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC623</td>
+<td>32 Hồ Văn Đại, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Thành phố Biên Hòa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC626</td>
+<td>233 Hoàng Bá Bích, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Thành phố Biên Hòa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC640</td>
+<td>106/2 Lý Thái Tổ, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Huyện Nhơn Trạch</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC666</td>
+<td>174 Lê Duẩn, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Huyện Long Thành</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC680</td>
+<td>415 Lý Thái Tổ, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Huyện Nhơn Trạch</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC711</td>
+<td>211 Hà Huy Giáp, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Thành phố Biên Hòa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC744</td>
+<td>115 Hoàng Minh Chánh, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Thành phố Biên Hòa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC766</td>
+<td>K4/242 Nguyễn Tri Phương, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Thành phố Biên Hòa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC925</td>
+<td>116 Phạm Văn Đồng</td>
+<td>Tây Ninh</td>
+<td>TX. Hoà Thành</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC999</td>
+<td>148 Trương Quyền</td>
+<td>Tây Ninh</td>
+<td>TP.Tây Ninh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>PMH</td>
+<td>Phú Mỹ Hưng</td>
+<td>HCM</td>
+<td>Quận 7</td>
+<td>Open Nomal</td>
+<td>Từ 8:00 đến 16:00 (**)
+Thời gian làm việc 7h-22 theo siêu thị</td>
+<td>Bán đến 12h30 ngày 29 Tết,
+Mùng 1 nghỉ (01/02) ,
+Mùng 2-3-4 theo lịch (**),
+Mùng 5 bán bình thường</td>
+</tr>
+<tr>
+<td>SGPMC075</td>
+<td>Sky Garden 1</td>
+<td>HCM</td>
+<td>Quận 7</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC180</td>
+<td>45 Lâm Văn Bền</td>
+<td>HCM</td>
+<td>Quận 7</td>
+<td>Open full during TET</td>
+<td>29 Tết: 6h - 21h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC213</td>
+<td>103 Đường số 15</td>
+<td>HCM</td>
+<td>Quận 7</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC314</td>
+<td>340 Lê Văn Lương</td>
+<td>HCM</td>
+<td>Quận 7</td>
+<td>Open full during TET</td>
+<td>29 Tết: 6h - 21h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC375</td>
+<td>Chung cư Hoàng Anh Thanh Bình</td>
+<td>HCM</td>
+<td>Quận 7</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC384</td>
+<td>81 Đường số 79</td>
+<td>HCM</td>
+<td>Quận 7</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC397</td>
+<td>393 Nguyễn Thị Thập</td>
+<td>HCM</td>
+<td>Quận 7</td>
+<td>Open full during TET</td>
+<td>29 Tết: 6h - 21h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC484</td>
+<td>58 Huỳnh Tấn Phát</td>
+<td>HCM</td>
+<td>Quận 7</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC494</td>
+<td>Florita</td>
+<td>HCM</td>
+<td>Quận 7</td>
+<td>Open full during TET</td>
+<td>29 Tết: 6h - 21h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC498</td>
+<td>M-One</td>
+<td>HCM</td>
+<td>Quận 7</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC643</td>
+<td>849 Trần Xuân Soạn</td>
+<td>HCM</td>
+<td>Quận 7</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC693</td>
+<td>640 Lê Văn Lương, Q7</td>
+<td>HCM</td>
+<td>Quận 7</td>
+<td>Open full during TET</td>
+<td>29 Tết: 6h - 21h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC746</td>
+<td>55 Nguyễn Đức Cảnh, Q7</td>
+<td>HCM</td>
+<td>Quận 7</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC759</td>
+<td>402 Lê Văn Lương, Q7</td>
+<td>HCM</td>
+<td>Quận 7</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC771</td>
+<td>70/1 Đường số 37, Q7</td>
+<td>HCM</td>
+<td>Quận 7</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC503</td>
+<td>1426-1428 Trần Hưng Đạo, Long Xuyên</td>
+<td>An Giang</td>
+<td>Thành phố Long Xuyên</td>
+<td>Open full during TET</td>
+<td>29 Tết: 6h - 22h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC505</td>
+<td>330/5 Hùng Vương, Long Xuyên</td>
+<td>An Giang</td>
+<td>Thành phố Long Xuyên</td>
+<td>Open full during TET</td>
+<td>29 Tết: 6h - 22h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC506</td>
+<td>189A Ung Văn Khiêm, Long Xuyên</td>
+<td>An Giang</td>
+<td>Thành phố Long Xuyên</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC525</td>
+<td>1094 Trần Hưng Đạo, Long Xuyên</td>
+<td>An Giang</td>
+<td>Thành phố Long Xuyên</td>
+<td>Open full during TET</td>
+<td>29 Tết: 6h - 22h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC546</td>
+<td>58/2 Thoại Ngọc Hầu, Long Xuyên</td>
+<td>An Giang</td>
+<td>Thành phố Long Xuyên</td>
+<td>Open full during TET</td>
+<td>29 Tết: 6h - 22h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC199</td>
+<td>312A/9 Nguyễn Văn Linh, Cần Thơ</td>
+<td>Can Tho</td>
+<td>Quận Ninh Kiều</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC220</td>
+<td>01 Võ Trường Toản, Cần Thơ</td>
+<td>Can Tho</td>
+<td>Quận Ninh Kiều</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC271</td>
+<td>16 Nguyễn Thị Minh Khai, Cần Thơ</td>
+<td>Can Tho</td>
+<td>Quận Ninh Kiều</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC285</td>
+<td>224 đường 3/2, Cần Thơ</td>
+<td>Can Tho</td>
+<td>Quận Ninh Kiều</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC302</td>
+<td>149 Trần Việt Châu, Cần Thơ</td>
+<td>Can Tho</td>
+<td>Quận Ninh Kiều</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC320</td>
+<td>56 Đường 3/2,  Cần Thơ</td>
+<td>Can Tho</td>
+<td>Quận Ninh Kiều</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC344</td>
+<td>Số 1 Đinh Tiên Hoàng, Cần Thơ</td>
+<td>Can Tho</td>
+<td>Quận Ninh Kiều</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC462</td>
+<td>715 Đường 3 tháng 2, Cần Thơ</td>
+<td>Can Tho</td>
+<td>Quận Ninh Kiều</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC482</td>
+<td>123 Đề Thám, Cần Thơ</td>
+<td>Can Tho</td>
+<td>Quận Ninh Kiều</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC536</td>
+<td>76 Lý Tự Trọng, Cần Thơ</td>
+<td>Can Tho</td>
+<td>Quận Ninh Kiều</td>
+<td>Open full during TET</td>
+<td>Ngày 29 tết: 6h - 21h
+Mùng 1: 7h - 23h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC562</td>
+<td>40 Trần Văn Khéo, Cần Thơ</td>
+<td>Can Tho</td>
+<td>Quận Ninh Kiều</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC848</td>
+<td>117A-117B CMT8, Cần Thơ</td>
+<td>Can Tho</td>
+<td>Quận Bình Thuỷ</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC945</td>
+<td>133 -135A Nguyễn Văn Cừ, Cần Thơ</td>
+<td>Can Tho</td>
+<td>Quận Ninh Kiều</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGP</td>
+<td>Saigon Pearl</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td>Bán đến hết 12h ngày 29 Tết,
+Nghỉ mùng 1-2-3-4 Tết
+Mùng 5 bán bình thường</td>
+</tr>
+<tr>
+<td>SGPMC065</td>
+<td>Vinhomes 1 - Park 6</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC066</td>
+<td>37 Vạn Kiếp</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC070</td>
+<td>144 Phan Văn Hân</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC084</td>
+<td>191 Phan Văn Hân</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC088</td>
+<td>78 Phạm Viết Chánh</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC122</td>
+<td>Vinhomes 2 - Central 1</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC130</td>
+<td>Xô Viết Nghệ Tĩnh</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC141</td>
+<td>Vinhomes 3 - LandMark 2</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC188</td>
+<td>71 D1</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC274</td>
+<td>100 Ngô Tất Tố</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC357</td>
+<td>20 Nguyễn Cửu Vân</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC363</td>
+<td>14 Ngô Tất Tố</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC383</td>
+<td>112 - 114 Bình Quới</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC495</td>
+<td>Saigon Pearl SH07</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC734</td>
+<td>22-24 Ung Văn Khiêm, Bình Thạnh</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC262</td>
+<td>559 Phạm Văn Thuận, Biên Hòa</td>
+<td>Dong Nai</td>
+<td>Thành phố Biên Hòa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC313</td>
+<td>1078 Phạm Văn Thuận, Biên Hòa</td>
+<td>Dong Nai</td>
+<td>Thành phố Biên Hòa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC331</td>
+<td>650 đường Nguyễn Ái Quốc, Biên Hòa</td>
+<td>Dong Nai</td>
+<td>Thành phố Biên Hòa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC351</td>
+<td>1338 Khu phố 3, Biên Hòa</td>
+<td>Dong Nai</td>
+<td>Thành phố Biên Hòa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC354</td>
+<td>165 Trương Định, Biên Hòa</td>
+<td>Dong Nai</td>
+<td>Thành phố Biên Hòa</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC443</td>
+<td>38 Lý Văn Sâm, Biên Hòa</td>
+<td>Dong Nai</td>
+<td>Thành phố Biên Hòa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC450</td>
+<td>105B Nguyễn Ái Quốc, Biên Hòa</td>
+<td>Dong Nai</td>
+<td>Thành phố Biên Hòa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC551</td>
+<td>07 Bùi Trọng Nghĩa, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Thành phố Biên Hòa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC559</td>
+<td>1402 Nguyễn Ái Quốc, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Thành phố Biên Hòa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC560</td>
+<td>73 Nguyễn Thái Học, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Thành phố Biên Hòa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC581</td>
+<td>58B Đồng Khởi, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Thành phố Biên Hòa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC593</td>
+<td>97/1 Phạm Văn Thuận, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Thành phố Biên Hòa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC603</td>
+<td>1024 Nguyễn Ái Quốc, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Thành phố Biên Hòa</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC635</td>
+<td>39 tổ 23 Nguyễn Khuyến, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Thành phố Biên Hòa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC669</td>
+<td>1312 Nguyễn Ái Quốc, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Thành phố Biên Hòa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC789</td>
+<td>I1 Đồng Khởi, Đồng Nai</td>
+<td>Dong Nai</td>
+<td>Thành phố Biên Hòa</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC104</td>
+<td>66 Phạm Phú Thứ</td>
+<td>HCM</td>
+<td>Quận 6</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC108</td>
+<td>34 Ông Ích Khiêm</td>
+<td>HCM</td>
+<td>Quận 11</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC124</td>
+<td>Bình Tiên</td>
+<td>HCM</td>
+<td>Quận 6</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC156</td>
+<td>Lạc Long Quân</td>
+<td>HCM</td>
+<td>Quận 11</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC163</td>
+<td>33 Bình Phú</td>
+<td>HCM</td>
+<td>Quận 6</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC261</td>
+<td>247 Lạc Long Quân</td>
+<td>HCM</td>
+<td>Quận 11</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC332</td>
+<td>175 Nguyễn Văn Luông</td>
+<td>HCM</td>
+<td>Quận 6</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC339</td>
+<td>77 Âu Cơ</td>
+<td>HCM</td>
+<td>Quận 11</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC442</td>
+<td>10 Vành Đai</td>
+<td>HCM</td>
+<td>Quận 6</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC456</td>
+<td>93 Tuệ Tĩnh Q11</td>
+<td>HCM</td>
+<td>Quận 11</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC507</td>
+<td>405 An Dương Vương</td>
+<td>HCM</td>
+<td>Quận 6</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC530</td>
+<td>Co.opmart Phú Thọ</td>
+<td>HCM</td>
+<td>Quận 11</td>
+<td>Open Nomal</td>
+<td>8h00 - 12h00 (**)</td>
+<td>Bán đến 12h00 ngày 29 Tết,
+Mùng 1 nghỉ (01/02) ,
+Mùng 2 đến mùng 5 theo lịch (**)
+Mùng 6 hoạt động bình thường</td>
+</tr>
+<tr>
+<td>SGPMC577</td>
+<td>129 - 131 Lý Nam Đế</td>
+<td>HCM</td>
+<td>Quận 11</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC579</td>
+<td>Cư Xá Đài Ra Đa Phú Lâm</td>
+<td>HCM</td>
+<td>Quận 6</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC722</td>
+<td>15 Dương Đình Nghệ, Q11</td>
+<td>HCM</td>
+<td>Quận 11</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC047</td>
+<td>Nguyễn Oanh</td>
+<td>HCM</td>
+<td>Quận Gò Vấp</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC069</td>
+<td>330 Phạm Văn Chiêu</td>
+<td>HCM</td>
+<td>Quận Gò Vấp</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC074</td>
+<td>Lê Văn Thọ</td>
+<td>HCM</td>
+<td>Quận Gò Vấp</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC076</td>
+<td>827 Lê Đức Thọ</td>
+<td>HCM</td>
+<td>Quận Gò Vấp</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC096</td>
+<td>205 Lê Đức Thọ</td>
+<td>HCM</td>
+<td>Quận Gò Vấp</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC106</td>
+<td>Thống Nhất</td>
+<td>HCM</td>
+<td>Quận Gò Vấp</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC126</td>
+<td>Đường số 30</td>
+<td>HCM</td>
+<td>Quận Gò Vấp</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC203</td>
+<td>250 Nguyễn Văn Khối</td>
+<td>HCM</td>
+<td>Quận Gò Vấp</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC226</td>
+<td>160 Phạm Văn Chiêu</td>
+<td>HCM</td>
+<td>Quận Gò Vấp</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC248</td>
+<td>Số 02 Nguyễn Văn Dung</td>
+<td>HCM</td>
+<td>Quận Gò Vấp</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC283</td>
+<td>29 Lê Đức Thọ</td>
+<td>HCM</td>
+<td>Quận Gò Vấp</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC295</td>
+<td>416 Thống Nhất</td>
+<td>HCM</td>
+<td>Quận Gò Vấp</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC458</td>
+<td>251 đường số 8</td>
+<td>HCM</td>
+<td>Quận Gò Vấp</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC460</td>
+<td>616 Lê Đức Thọ</td>
+<td>HCM</td>
+<td>Quận Gò Vấp</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC549</td>
+<td>Cityland Park Hills</td>
+<td>HCM</td>
+<td>Quận Gò Vấp</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC691</td>
+<td>437 Lê Văn Thọ,Gò Vấp</td>
+<td>HCM</td>
+<td>Quận Gò Vấp</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC792</td>
+<td>235 Lê Văn Thọ, Gò Vấp</td>
+<td>HCM</td>
+<td>Quận Gò Vấp</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC177</td>
+<td>21 Phan Đình Phùng - Bình Dương</td>
+<td>Binh Duong</td>
+<td>Thị xã Thuận An</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC184</td>
+<td>Đ531/37 &amp; 816 CMT8, Bình Dương</td>
+<td>Binh Duong</td>
+<td>Thành phố Thủ Dầu Một</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC185</td>
+<td>69 Nguyễn Văn Tiết, Bình Dương</td>
+<td>Binh Duong</td>
+<td>Thị xã Thuận An</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC243</td>
+<td>EHome 4, Bình Dương</td>
+<td>Binh Duong</td>
+<td>Thị xã Thuận An</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC270</td>
+<td>KDC Thuận Giao, Bình Dương</td>
+<td>Binh Duong</td>
+<td>Thị xã Thuận An</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC437</td>
+<td>483 CMT8, Bình Dương</td>
+<td>Binh Duong</td>
+<td>Thành phố Thủ Dầu Một</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC476</td>
+<td>130 Đỗ Thành Nhân, Bình Dương</td>
+<td>Binh Duong</td>
+<td>Thị xã Thuận An</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC490</td>
+<td>KDC Việt Sing, Bình Dương</td>
+<td>Binh Duong</td>
+<td>Thị xã Thuận An</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC531</td>
+<td>1/176 Đường 22 tháng 12, Bình Dương</td>
+<td>Binh Duong</td>
+<td>Thị xã Thuận An</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC533</td>
+<td>Chung Cư Phú Hòa, Bình Dương</td>
+<td>Binh Duong</td>
+<td>Thành phố Thủ Dầu Một</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC588</td>
+<td>113B/1/11, Đường DT743, Bình Dương</td>
+<td>Binh Duong</td>
+<td>Thị xã Thuận An</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC589</td>
+<td>3/4 Thủ Khoa Huân, Bình Dương</td>
+<td>Binh Duong</td>
+<td>Thị xã Thuận An</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC676</td>
+<td>Chung cư Hiệp Thành 3, Bình Dương</td>
+<td>Binh Duong</td>
+<td>Thành phố Thủ Dầu Một</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC677</td>
+<td>655 Huỳnh Văn Lũy, Bình Dương</td>
+<td>Binh Duong</td>
+<td>Thành phố Thủ Dầu Một</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC678</td>
+<td>233 Phú Lợi, Bình Dương</td>
+<td>Binh Duong</td>
+<td>Thành phố Thủ Dầu Một</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC717</td>
+<td>970 Lê Hồng Phong, Bình Dương</td>
+<td>Binh Duong</td>
+<td>Thành phố Thủ Dầu Một</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC720</td>
+<td>2/107 Thủ Khoa Huân, Bình Dương</td>
+<td>Binh Duong</td>
+<td>Thị xã Thuận An</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC787</td>
+<td>4B/2B Khu phố Đồng An 1, Bình Dương</td>
+<td>Binh Duong</td>
+<td>Thị xã Thuận An</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC817</td>
+<td>29 Đường D14, Bình Dương</td>
+<td>Binh Duong</td>
+<td>Thị xã Bến Cát</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC858</td>
+<td>14/4 Nguyễn Du, Bình Dương</td>
+<td>Binh Duong</td>
+<td>Thị xã Thuận An</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC888</td>
+<td>C322/19 Đường số 5, Bình Dương</td>
+<td>Binh Duong</td>
+<td>Thành phố Thủ Dầu Một</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>DQH</td>
+<td>Dương Quảng Hàm</td>
+<td>HCM</td>
+<td>Quận Gò Vấp</td>
+<td>Open full during TET</td>
+<td>06h - 21h
+7h - 23h</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>NCT</td>
+<td>Nguyễn Chí Thanh</td>
+<td>HCM</td>
+<td>Quận 5</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC143</td>
+<td>Phạm Văn Bạch</td>
+<td>HCM</td>
+<td>Quận Gò Vấp</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC172</td>
+<td>546A-546B Nguyễn Văn Công</td>
+<td>HCM</td>
+<td>Quận Gò Vấp</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC204</td>
+<td>391 - 393 Phan Huy Ích</td>
+<td>HCM</td>
+<td>Quận Gò Vấp</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC294</td>
+<td>71 Trần Bình Trọng</td>
+<td>HCM</td>
+<td>Quận 5</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC374</td>
+<td>412- 414 Phan Văn Trị</td>
+<td>HCM</td>
+<td>Quận 5</td>
+<td>Open full during TET</td>
+<td>06h - 21h
+7h - 23h</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>SGPMC408</td>
+<td>517 Phan Văn Trị</td>
+<td>HCM</td>
+<td>Quận Gò Vấp</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC590</td>
+<td>483 đường Nguyễn Văn Khối</td>
+<td>HCM</td>
+<td>Quận Gò Vấp</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC622</td>
+<td>634 Lê Quang Định</td>
+<td>HCM</td>
+<td>Quận Gò Vấp</td>
+<td>Open full during TET</td>
+<td>06h - 21h
+7h - 23h</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>SGPMC646</td>
+<td>712 Phạm Văn Bạch</td>
+<td>HCM</td>
+<td>Quận Gò Vấp</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC695</td>
+<td>1182 Quang Trung, Gò Vấp</td>
+<td>HCM</td>
+<td>Quận Gò Vấp</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC706</td>
+<td>1334 Lê Đức Thọ, Gò Vấp</td>
+<td>HCM</td>
+<td>Quận Gò Vấp</td>
+<td>Open full during TET</td>
+<td>06h - 21h
+7h - 23h</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>SGPMC745</td>
+<td>99 Nguyễn Duy Dương, Q5</td>
+<td>HCM</td>
+<td>Quận 5</td>
+<td>Open full during TET</td>
+<td>06h - 21h
+7h - 23h</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>SGPMC767</td>
+<td>577 Trần Hưng Đạo, Q5</td>
+<td>HCM</td>
+<td>Quận 5</td>
+<td>Open full during TET</td>
+<td>06h - 21h
+7h - 23h</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>SGPMC807</td>
+<td>600 Quang Trung, Gò Vấp</td>
+<td>HCM</td>
+<td>Quận Gò Vấp</td>
+<td>Open full during TET</td>
+<td>06h - 21h
+7h - 23h</td>
+<td>31/01 (29 tết)
+01/02 (mùng 1 tết)</td>
+</tr>
+<tr>
+<td>THD</td>
+<td>Trần Hưng Đạo</td>
+<td>HCM</td>
+<td>Quận 5</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC360</td>
+<td>8/5 - 8/5B Học Lạc, Tiền Giang</td>
+<td>Tien Giang</td>
+<td>Thành phố Mỹ Tho</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC361</td>
+<td>77/7 - 78/1 Lê Thị Hồng Gấm, Tiền Giang</td>
+<td>Tien Giang</td>
+<td>Thành phố Mỹ Tho</td>
+<td>Open full during TET</td>
+<td>29 Tết: 6h - 22h
+Mùng 1: 6h - 22h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC372</td>
+<td>42 Ấp Bắc, Tiền Giang</td>
+<td>Tien Giang</td>
+<td>Thành phố Mỹ Tho</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC668</td>
+<td>8/6D Nguyễn An Ninh, Tiền Giang</td>
+<td>Tien Giang</td>
+<td>Thành phố Mỹ Tho</td>
+<td>Open full during TET</td>
+<td>29 Tết: 6h - 22h
+Mùng 1: 6h - 22h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC698</td>
+<td>9 Ấp Phong Thuận, Tiền Giang</td>
+<td>Tien Giang</td>
+<td>Thành phố Mỹ Tho</td>
+<td>Open full during TET</td>
+<td>29 Tết: 6h - 22h
+Mùng 1: 6h - 22h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC770</td>
+<td>118/4B Lý Thường Kiệt, Tiền Giang</td>
+<td>Tien Giang</td>
+<td>Thành phố Mỹ Tho</td>
+<td>Open full during TET</td>
+<td>29 Tết: 6h - 22h
+Mùng 1: 6h - 22h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC796</td>
+<td>146 Nguyễn Trung Trực, Tiền Giang</td>
+<td>Tien Giang</td>
+<td>Thành phố Mỹ Tho</td>
+<td>Open full during TET</td>
+<td>29 Tết: 6h - 22h
+Mùng 1: 6h - 22h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC954</td>
+<td>294A Bến Xe, Tiền Giang</td>
+<td>Tien Giang</td>
+<td>Huyện Chợ Gạo</td>
+<td>Open full during TET</td>
+<td>29 Tết: 6h - 22h
+Mùng 1: 6h - 22h</td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC988</td>
+<td>33 Trương Định, Tiền Giang</td>
+<td>Tien Giang</td>
+<td>Thị xã Gò Công</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC159</td>
+<td>74 Võ Thị Sáu</td>
+<td>Vung Tau</td>
+<td>Thành phố Vũng Tàu</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC169</td>
+<td>DIC Phoenix Vũng Tàu</td>
+<td>Vung Tau</td>
+<td>Thành phố Vũng Tàu</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC247</td>
+<td>966-968 đường 30/4, Vũng Tàu</td>
+<td>Vung Tau</td>
+<td>Thành phố Vũng Tàu</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC310</td>
+<td>151 Thùy Vân, Vũng Tàu</td>
+<td>Vung Tau</td>
+<td>Thành phố Vũng Tàu</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC367</td>
+<td>183 Chu Mạnh Trinh, Vũng Tàu</td>
+<td>Vung Tau</td>
+<td>Thành phố Vũng Tàu</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC574</td>
+<td>Đường số 7, Long Hải</td>
+<td>Vung Tau</td>
+<td>Huyện Long Điền</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC583</td>
+<td>380 Lê Hồng Phong, Vũng Tàu</td>
+<td>Vung Tau</td>
+<td>Thành phố Vũng Tàu</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC584</td>
+<td>291 Trương Công Định, Vũng Tàu</td>
+<td>Vung Tau</td>
+<td>Thành phố Vũng Tàu</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC594</td>
+<td>71 Trương Công Định, Vũng Tàu</td>
+<td>Vung Tau</td>
+<td>Thành phố Vũng Tàu</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC605</td>
+<td>68 Hương Lộ 2, Vũng Tàu</td>
+<td>Vung Tau</td>
+<td>Huyện Long Điền</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC612</td>
+<td>1/6 Võ Thị Sáu, Vũng Tàu</td>
+<td>Vung Tau</td>
+<td>Huyện Đất Đỏ</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC621</td>
+<td>11 Phước Thắng, Vũng Tàu</td>
+<td>Vung Tau</td>
+<td>Thành phố Vũng Tàu</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC667</td>
+<td>1/34 Tỉnh lộ 44, Long Hải</td>
+<td>Vung Tau</td>
+<td>Huyện Long Điền</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC675</td>
+<td>01 Trần Phú, Vũng Tàu</td>
+<td>Vung Tau</td>
+<td>Huyện Xuyên Mộc</td>
+<td>Open Nomal</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC324</td>
+<td>53 - 55 Quốc Lộ 1A, Long An</td>
+<td>Long An</td>
+<td>Huyện Bến Lức</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC338</td>
+<td>241 Nguyễn Đình Chiểu, Long An</td>
+<td>Long An</td>
+<td>Thành phố Tân An</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC340</td>
+<td>78 QL62, Long An</td>
+<td>Long An</td>
+<td>Thành phố Tân An</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC348</td>
+<td>212 Quốc lộ 1A, Long An</td>
+<td>Long An</td>
+<td>Thành phố Tân An</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC389</td>
+<td>92 - 94 Châu Thị Kim, Long An</td>
+<td>Long An</td>
+<td>Thành phố Tân An</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC433</td>
+<td>49 Huỳnh Châu Sổ, Long An</td>
+<td>Long An</td>
+<td>Huyện Bến Lức</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC435</td>
+<td>165A Đỗ Tường Phong, Long An</td>
+<td>Long An</td>
+<td>Huyện Châu Thành</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC457</td>
+<td>50 Trương Định, Long An</td>
+<td>Long An</td>
+<td>Thành phố Tân An</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC870</td>
+<td>265/1 Tỉnh lộ 827A, Long An</td>
+<td>Long An</td>
+<td>Huyện Châu Thành</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC871</td>
+<td>368 Quốc lộ 62, Long An</td>
+<td>Long An</td>
+<td>Thành phố Tân An</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>SGPMC872</td>
+<td>289B Phước Lợi, Long An</td>
+<td>Long An</td>
+<td>Huyện Bến Lức</td>
+<td>Open full during TET</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
