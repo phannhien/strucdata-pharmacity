@@ -7510,3 +7510,77 @@ Mùng 1: 6h - 22h</td>
 </tr>
 </tbody>
 </table>
+
+/////////////////
+
+
+
+<table>
+<tbody>
+<tr>
+<td>STOREID</td>
+<td>STORE NAME</td>
+<td>PROVINCE</td>
+<td>DISTRICT</td>
+<td> Thời gian khác (từ mấy giờ đến mấy giờ)</td>
+<td>Ngày áp dụng thời gian khác (từ ngày đến ngày)</td>
+</tr>
+<tr>
+<td>HAG</td>
+<td>Hoàng Anh Gia Lai</td>
+<td>HCM</td>
+<td>Huyện Nhà Bè</td>
+<td>Từ 8:00 đến 16:00 (**)</td>
+<td>Bán đến 12:30 ngày 29 Tết
+Mùng 1 nghỉ (01/02)
+Mùng 2,3,4 chạy theo lịch (**)
+Mùng 5 bán bình thường</td>
+</tr>
+<tr>
+<td>SGPMC735</td>
+<td>Mega Market, Q2</td>
+<td>HCM</td>
+<td>Quận 2</td>
+<td>Mùng 2 từ 7:00 đến 15:00
+Mùng 3 từ 7:00 đến 20:00</td>
+<td>Bán đến 12:30 ngày 29 Tết
+Mùng 1 nghỉ (01/02)
+Mùng 2,3 chạy theo lịch (**)
+Mùng 4 bán bình thường</td>
+</tr>
+<tr>
+<td>PMH</td>
+<td>Phú Mỹ Hưng</td>
+<td>HCM</td>
+<td>Quận 7</td>
+<td>Từ 8:00 đến 16:00
+Thời gian làm việc từ 7:00 đến 22:00 theo siêu thị</td>
+<td>Bán đến 12:30 ngày 29 Tết
+Mùng 1 nghỉ (01/02)
+Mùng 2,3,4 chạy theo lịch (**)
+Mùng 5 bán bình thường</td>
+</tr>
+<tr>
+<td>SGP</td>
+<td>Saigon Pearl</td>
+<td>HCM</td>
+<td>Quận Bình Thạnh</td>
+<td></td>
+<td>Bán đến 12:00 ngày 29 Tết
+Mùng 2,3,4 nghỉ
+Mùng 5 bán bình thường</td>
+</tr>
+<tr>
+<td>SGPMC530</td>
+<td>Co.opmart Phú Thọ</td>
+<td>HCM</td>
+<td>Quận 11</td>
+<td></td>
+<td>Bán đến 12:30 ngày 29 Tết
+Mùng 1 nghỉ (01/02)
+Mùng 2,3,4,5 hoạt động từ 8:00 đến 12:00
+Mùng 5 bán bình thường
+Mùng 6 hoạt động bình thường</td>
+</tr>
+</tbody>
+</table>
