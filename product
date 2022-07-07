@@ -3,7 +3,7 @@
     "url": "https://www.pharmacity.vn/URL-san-pham.html",
     "priceCurrency": "VND",
     "offerCount": "5",
-  	"lowPrice": "0",
+    "lowPrice": "0",
     "highPrice": "102160",
     "priceValidUntil": "2022-03-01",
     "itemCondition": "https://schema.org/UsedCondition",
