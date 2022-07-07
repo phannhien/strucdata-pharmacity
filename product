@@ -1,0 +1,17 @@
+"offers": {
+    "@type": "AggregateOffer",
+    "url": "https://www.pharmacity.vn/URL-san-pham.html",
+    "priceCurrency": "VND",
+    "offerCount": "5",
+  	"lowPrice": "0",
+  	"highPrice": "102160",
+    "priceValidUntil": "2022-03-01",
+    "itemCondition": "https://schema.org/UsedCondition",
+    "availability": "https://schema.org/InStock"
+}
+
+
+-----------------------
+Tham khảo:
+https://developers.google.com/search/docs/advanced/structured-data/product#shopping-aggregator-page
+https://schema.org/AggregateOffer
